@@ -1,0 +1,12 @@
+E:\GeoLoc\Tools\GPSSender\obj\Debug\ResolveAssemblyReference.cache
+E:\GeoLoc\Tools\GPSSender\obj\Debug\GPSSender.exe
+E:\GeoLoc\Tools\GPSSender\bin\Debug\GPSSender.exe.config
+E:\GeoLoc\Tools\GPSSender\bin\Debug\GPSSender.exe
+E:\GeoLoc\Tools\GPSSender\bin\Debug\GPSSender.pdb
+E:\GeoLoc\Tools\GPSSender\bin\Debug\objects.dll
+E:\GeoLoc\Tools\GPSSender\bin\Debug\objects.pdb
+E:\GeoLoc\Tools\GPSSender\obj\Debug\GPSSender.pdb
+E:\GeoLoc\Tools\GPSSender\bin\Debug\en\objects.resources.dll
+E:\GeoLoc\Tools\GPSSender\bin\Debug\az\objects.resources.dll
+E:\GeoLoc\Tools\GPSSender\bin\Debug\tr\objects.resources.dll
+E:\GeoLoc\Tools\GPSSender\bin\Debug\he\objects.resources.dll

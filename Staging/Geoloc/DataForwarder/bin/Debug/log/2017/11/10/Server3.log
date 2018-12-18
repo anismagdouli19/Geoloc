@@ -1,0 +1,708 @@
+10.11.2017 16:49:45; WARNING; 0; Client started
+10.11.2017 16:49:45; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:49:45; WARNING; 0; Client started
+10.11.2017 16:49:45; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:49:45; WARNING; 0; Client started
+10.11.2017 16:49:45; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:49:45; WARNING; 0; Client started
+10.11.2017 16:49:45; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:49:45; WARNING; 0; Client started
+10.11.2017 16:49:45; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:49:45; WARNING; 0; Client started
+10.11.2017 16:49:45; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:49:45; WARNING; 0; Client started
+10.11.2017 16:49:45; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:49:45; WARNING; 0; Client started
+10.11.2017 16:49:45; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:53:36; WARNING; 0; Client started
+10.11.2017 16:53:36; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:53:36; WARNING; 0; Client started
+10.11.2017 16:53:36; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:53:36; WARNING; 0; Client started
+10.11.2017 16:53:36; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:53:36; WARNING; 0; Client started
+10.11.2017 16:53:36; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:53:36; WARNING; 0; Client started
+10.11.2017 16:53:36; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:53:36; WARNING; 0; Client started
+10.11.2017 16:53:36; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:53:36; WARNING; 0; Client started
+10.11.2017 16:53:36; WARNING; 0; HTTP/JSON client started
+10.11.2017 16:53:36; WARNING; 0; Client started
+10.11.2017 16:53:36; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:03:49; WARNING; 0; Client started
+10.11.2017 17:03:49; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:03:49; WARNING; 0; Client started
+10.11.2017 17:03:49; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:03:49; WARNING; 0; Client started
+10.11.2017 17:03:49; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:03:49; WARNING; 0; Client started
+10.11.2017 17:03:49; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:03:49; WARNING; 0; Client started
+10.11.2017 17:03:49; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:03:49; WARNING; 0; Client started
+10.11.2017 17:03:49; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:03:49; WARNING; 0; Client started
+10.11.2017 17:03:49; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:03:49; WARNING; 0; Client started
+10.11.2017 17:03:49; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:09:02; WARNING; 0; Client started
+10.11.2017 17:09:02; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:09:02; WARNING; 0; Client started
+10.11.2017 17:09:02; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:09:02; WARNING; 0; Client started
+10.11.2017 17:09:02; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:09:02; WARNING; 0; Client started
+10.11.2017 17:09:02; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:09:02; WARNING; 0; Client started
+10.11.2017 17:09:02; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:09:02; WARNING; 0; Client started
+10.11.2017 17:09:02; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:09:02; WARNING; 0; Client started
+10.11.2017 17:09:02; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:09:02; WARNING; 0; Client started
+10.11.2017 17:09:02; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:10:15; WARNING; 0; Client started
+10.11.2017 17:10:15; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:10:15; WARNING; 0; Client started
+10.11.2017 17:10:15; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:10:15; WARNING; 0; Client started
+10.11.2017 17:10:15; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:10:15; WARNING; 0; Client started
+10.11.2017 17:10:15; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:10:15; WARNING; 0; Client started
+10.11.2017 17:10:15; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:10:15; WARNING; 0; Client started
+10.11.2017 17:10:15; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:10:15; WARNING; 0; Client started
+10.11.2017 17:10:15; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:10:15; WARNING; 0; Client started
+10.11.2017 17:10:15; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:14:23; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314263", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314263"}]
+10.11.2017 17:14:23; INFO; 0; 1 point sent of 1.Times for query/session/delete:584.2346/-131.2898/131.2898
+10.11.2017 17:14:29; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314269", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314269"}]
+10.11.2017 17:14:29; INFO; 0; 1 point sent of 1.Times for query/session/delete:710.7074/-141.1989/141.1989
+10.11.2017 17:14:35; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05785", "longitude": "72.8531", "timeStamp": "1510314274", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314274","serverTimeStamp": "1510314275"}]
+10.11.2017 17:14:35; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314275", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314275"}]
+10.11.2017 17:14:35; INFO; 0; 1 point sent of 1.Times for query/session/delete:822.7746/-199.9513/199.9513
+10.11.2017 17:14:35; INFO; 0; 1 point sent of 1.Times for query/session/delete:869.7339/-199.8163/199.8163
+10.11.2017 17:14:41; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05767", "longitude": "72.85294", "timeStamp": "1510314279", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314279","serverTimeStamp": "1510314282"}]
+10.11.2017 17:14:41; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314282", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314282"}]
+10.11.2017 17:14:42; INFO; 0; 1 point sent of 1.Times for query/session/delete:778.4413/-146.9028/146.9028
+10.11.2017 17:14:42; INFO; 0; 1 point sent of 1.Times for query/session/delete:904.1576/-156.9669/156.9669
+10.11.2017 17:14:47; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314287", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314287"}]
+10.11.2017 17:14:47; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05742", "longitude": "72.85273", "timeStamp": "1510314284", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314284","serverTimeStamp": "1510314287"}]
+10.11.2017 17:14:47; INFO; 0; 1 point sent of 1.Times for query/session/delete:715.9766/-168.8932/168.8932
+10.11.2017 17:14:47; INFO; 0; 1 point sent of 1.Times for query/session/delete:715.9766/-153.2683/153.2683
+10.11.2017 17:14:53; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05714", "longitude": "72.85245", "timeStamp": "1510314289", "speed": "8.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314289","serverTimeStamp": "1510314293"}]
+10.11.2017 17:14:53; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314293", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314293"}]
+10.11.2017 17:14:53; INFO; 0; 1 point sent of 1.Times for query/session/delete:487.3224/-64.3866/64.3866
+10.11.2017 17:14:53; INFO; 0; 1 point sent of 1.Times for query/session/delete:469.8374/-53.4959/53.4959
+10.11.2017 17:14:59; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314299", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314299"}]
+10.11.2017 17:14:59; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05683", "longitude": "72.85213", "timeStamp": "1510314294", "speed": "10.27778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314294","serverTimeStamp": "1510314299"}]
+10.11.2017 17:14:59; INFO; 0; 1 point sent of 1.Times for query/session/delete:717.0186/-167.9573/167.9573
+10.11.2017 17:15:00; INFO; 0; 1 point sent of 1.Times for query/session/delete:1032.2236/-151.2619/151.2619
+10.11.2017 17:15:05; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05623", "longitude": "72.85151", "timeStamp": "1510314304", "speed": "8.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314304","serverTimeStamp": "1510314305"}]
+10.11.2017 17:15:05; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314305", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314305"}]
+10.11.2017 17:15:05; INFO; 0; 1 point sent of 1.Times for query/session/delete:668.8452/-162.2927/162.2927
+10.11.2017 17:15:06; INFO; 0; 1 point sent of 1.Times for query/session/delete:715.9528/-168.3837/168.3837
+10.11.2017 17:15:11; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05611", "longitude": "72.85132", "timeStamp": "1510314309", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314309","serverTimeStamp": "1510314312"}]
+10.11.2017 17:15:11; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314312", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314312"}]
+10.11.2017 17:15:12; INFO; 0; 1 point sent of 1.Times for query/session/delete:769.6795/-162.4199/162.4199
+10.11.2017 17:15:12; INFO; 0; 1 point sent of 1.Times for query/session/delete:780.009/-162.4016/162.4016
+10.11.2017 17:15:17; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314317", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314317"}]
+10.11.2017 17:15:17; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05611", "longitude": "72.85132", "timeStamp": "1510314309", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314309","serverTimeStamp": "1510314317"}]
+10.11.2017 17:15:17; INFO; 0; 1 point sent of 1.Times for query/session/delete:753.8866/-184.4212/184.4212
+10.11.2017 17:15:17; INFO; 0; 1 point sent of 1.Times for query/session/delete:885.6104/-169.0528/169.0528
+10.11.2017 17:15:23; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05601", "longitude": "72.8512", "timeStamp": "1510314319", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314319","serverTimeStamp": "1510314323"}]
+10.11.2017 17:15:23; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314323", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314323"}]
+10.11.2017 17:15:23; INFO; 0; 1 point sent of 1.Times for query/session/delete:770.3763/-185.3379/185.3379
+10.11.2017 17:15:23; INFO; 0; 1 point sent of 1.Times for query/session/delete:901.2619/-146.5105/146.5105
+10.11.2017 17:15:29; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05591", "longitude": "72.85107", "timeStamp": "1510314324", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314324","serverTimeStamp": "1510314329"}]
+10.11.2017 17:15:29; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314329", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314329"}]
+10.11.2017 17:15:29; INFO; 0; 1 point sent of 1.Times for query/session/delete:738.9483/-184.102/184.102
+10.11.2017 17:15:29; INFO; 0; 1 point sent of 1.Times for query/session/delete:754.6021/-184.1305/184.1305
+10.11.2017 17:15:35; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05591", "longitude": "72.85107", "timeStamp": "1510314324", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314324","serverTimeStamp": "1510314335"}]
+10.11.2017 17:15:35; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314336", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314336"}]
+10.11.2017 17:15:36; INFO; 0; 1 point sent of 1.Times for query/session/delete:872.4492/-155.1784/155.1784
+10.11.2017 17:15:36; INFO; 0; 1 point sent of 1.Times for query/session/delete:719.1432/-166.3015/166.3015
+10.11.2017 17:15:41; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314341", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314341"}]
+10.11.2017 17:15:41; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05591", "longitude": "72.85107", "timeStamp": "1510314324", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314324","serverTimeStamp": "1510314341"}]
+10.11.2017 17:15:41; INFO; 0; 1 point sent of 1.Times for query/session/delete:739.0696/-184.5861/184.5861
+10.11.2017 17:15:41; INFO; 0; 1 point sent of 1.Times for query/session/delete:839.0678/-197.7851/197.7851
+10.11.2017 17:15:47; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05591", "longitude": "72.85107", "timeStamp": "1510314324", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314324","serverTimeStamp": "1510314347"}]
+10.11.2017 17:15:47; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314347", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314347"}]
+10.11.2017 17:15:47; INFO; 0; 1 point sent of 1.Times for query/session/delete:738.7633/-168.787/168.787
+10.11.2017 17:15:47; INFO; 0; 1 point sent of 1.Times for query/session/delete:754.416/-168.8157/168.8157
+10.11.2017 17:15:53; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05591", "longitude": "72.85107", "timeStamp": "1510314324", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314324","serverTimeStamp": "1510314353"}]
+10.11.2017 17:15:53; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314353", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314353"}]
+10.11.2017 17:15:53; INFO; 0; 1 point sent of 1.Times for query/session/delete:889.5517/-171.5264/171.5264
+10.11.2017 17:15:53; INFO; 0; 1 point sent of 1.Times for query/session/delete:936.4437/-171.5429/171.5429
+10.11.2017 17:15:59; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314359", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314359"}]
+10.11.2017 17:15:59; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05552", "longitude": "72.85072", "timeStamp": "1510314359", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314359","serverTimeStamp": "1510314359"}]
+10.11.2017 17:15:59; INFO; 0; 1 point sent of 1.Times for query/session/delete:723.8575/-153.5603/153.5603
+10.11.2017 17:15:59; INFO; 0; 1 point sent of 1.Times for query/session/delete:755.1087/-169.1823/169.1823
+10.11.2017 17:16:05; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314365", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314365"}]
+10.11.2017 17:16:05; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05545", "longitude": "72.85064", "timeStamp": "1510314361", "speed": "7.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314361","serverTimeStamp": "1510314365"}]
+10.11.2017 17:16:05; INFO; 0; 1 point sent of 1.Times for query/session/delete:635.0159/-193.4721/193.4721
+10.11.2017 17:16:05; INFO; 0; 1 point sent of 1.Times for query/session/delete:716.948/-178.4824/178.4824
+10.11.2017 17:16:11; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314371", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314371"}]
+10.11.2017 17:16:11; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05497", "longitude": "72.85008", "timeStamp": "1510314371", "speed": "8.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314371","serverTimeStamp": "1510314371"}]
+10.11.2017 17:16:11; INFO; 0; 1 point sent of 1.Times for query/session/delete:755.6868/-178.7632/178.7632
+10.11.2017 17:16:11; INFO; 0; 1 point sent of 1.Times for query/session/delete:841.2847/-164.1524/164.1524
+10.11.2017 17:16:17; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05465", "longitude": "72.84975", "timeStamp": "1510314376", "speed": "9.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314376","serverTimeStamp": "1510314377"}]
+10.11.2017 17:16:17; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314377", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314377"}]
+10.11.2017 17:16:17; INFO; 0; 1 point sent of 1.Times for query/session/delete:738.7494/-200.2828/200.2828
+10.11.2017 17:16:17; INFO; 0; 1 point sent of 1.Times for query/session/delete:810.3586/-203.1649/203.1649
+10.11.2017 17:16:23; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314383", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314383"}]
+10.11.2017 17:16:23; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05431", "longitude": "72.84942", "timeStamp": "1510314381", "speed": "10", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314381","serverTimeStamp": "1510314383"}]
+10.11.2017 17:16:23; INFO; 0; 1 point sent of 1.Times for query/session/delete:708.0756/-169.4502/169.4502
+10.11.2017 17:16:24; INFO; 0; 1 point sent of 1.Times for query/session/delete:908.9454/-169.0988/169.0988
+10.11.2017 17:16:29; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314389", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314389"}]
+10.11.2017 17:16:29; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05392", "longitude": "72.84911", "timeStamp": "1510314386", "speed": "8.88889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314386","serverTimeStamp": "1510314389"}]
+10.11.2017 17:16:29; INFO; 0; 1 point sent of 1.Times for query/session/delete:690.1321/-157.5462/157.5462
+10.11.2017 17:16:29; INFO; 0; 1 point sent of 1.Times for query/session/delete:705.7577/-153.0349/153.0349
+10.11.2017 17:16:35; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.0536", "longitude": "72.84879", "timeStamp": "1510314391", "speed": "8.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314391","serverTimeStamp": "1510314395"}]
+10.11.2017 17:16:35; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314395", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314395"}]
+10.11.2017 17:16:35; INFO; 0; 1 point sent of 1.Times for query/session/delete:554.157/-68.5751/68.5751
+10.11.2017 17:16:35; INFO; 0; 1 point sent of 1.Times for query/session/delete:554.157/-68.5751/68.5751
+10.11.2017 17:16:41; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05316", "longitude": "72.8481", "timeStamp": "1510314401", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314401","serverTimeStamp": "1510314401"}]
+10.11.2017 17:16:41; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314401", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314401"}]
+10.11.2017 17:16:41; INFO; 0; 1 point sent of 1.Times for query/session/delete:732.8646/-162.7986/162.7986
+10.11.2017 17:16:41; INFO; 0; 1 point sent of 1.Times for query/session/delete:754.7901/-169.0998/169.0998
+10.11.2017 17:16:47; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05299", "longitude": "72.84782", "timeStamp": "1510314406", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314406","serverTimeStamp": "1510314407"}]
+10.11.2017 17:16:47; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314407", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314407"}]
+10.11.2017 17:16:47; INFO; 0; 1 point sent of 1.Times for query/session/delete:785.6391/-153.4004/153.4004
+10.11.2017 17:16:47; INFO; 0; 1 point sent of 1.Times for query/session/delete:729.3187/-173.2563/173.2563
+10.11.2017 17:16:53; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05299", "longitude": "72.84782", "timeStamp": "1510314406", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314406","serverTimeStamp": "1510314413"}]
+10.11.2017 17:16:53; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314413", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314413"}]
+10.11.2017 17:16:53; INFO; 0; 1 point sent of 1.Times for query/session/delete:817.1012/-184.7798/184.7798
+10.11.2017 17:16:54; INFO; 0; 1 point sent of 1.Times for query/session/delete:817.4664/-185.3409/185.3409
+10.11.2017 17:16:59; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314419", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314419"}]
+10.11.2017 17:16:59; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05299", "longitude": "72.84782", "timeStamp": "1510314406", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314406","serverTimeStamp": "1510314419"}]
+10.11.2017 17:16:59; INFO; 0; 1 point sent of 1.Times for query/session/delete:667.0723/-148.0236/148.0236
+10.11.2017 17:16:59; INFO; 0; 1 point sent of 1.Times for query/session/delete:682.6982/-163.126/163.126
+10.11.2017 17:17:05; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05299", "longitude": "72.84782", "timeStamp": "1510314406", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314406","serverTimeStamp": "1510314425"}]
+10.11.2017 17:17:05; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314425", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314425"}]
+10.11.2017 17:17:05; INFO; 0; 1 point sent of 1.Times for query/session/delete:601.7987/-69.0308/69.0308
+10.11.2017 17:17:05; INFO; 0; 1 point sent of 1.Times for query/session/delete:618.7569/-54.4107/54.4107
+10.11.2017 17:17:11; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05299", "longitude": "72.84782", "timeStamp": "1510314406", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314406","serverTimeStamp": "1510314431"}]
+10.11.2017 17:17:11; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314431", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314431"}]
+10.11.2017 17:17:11; INFO; 0; 1 point sent of 1.Times for query/session/delete:732.6623/-148.9105/148.9105
+10.11.2017 17:17:11; INFO; 0; 1 point sent of 1.Times for query/session/delete:864.0266/-162.6224/162.6224
+10.11.2017 17:17:17; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314437", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314437"}]
+10.11.2017 17:17:17; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05299", "longitude": "72.84782", "timeStamp": "1510314406", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314406","serverTimeStamp": "1510314437"}]
+10.11.2017 17:17:17; INFO; 0; 1 point sent of 1.Times for query/session/delete:739.4913/-153.6103/153.6103
+10.11.2017 17:17:17; INFO; 0; 1 point sent of 1.Times for query/session/delete:786.3605/-162.8347/162.8347
+10.11.2017 17:17:23; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05299", "longitude": "72.84782", "timeStamp": "1510314406", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314406","serverTimeStamp": "1510314443"}]
+10.11.2017 17:17:23; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314443", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314443"}]
+10.11.2017 17:17:23; INFO; 0; 1 point sent of 1.Times for query/session/delete:707.7465/-162.7725/162.7725
+10.11.2017 17:17:23; INFO; 0; 1 point sent of 1.Times for query/session/delete:838.9128/-156.0137/156.0137
+10.11.2017 17:18:23; WARNING; 0; Client started
+10.11.2017 17:18:23; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:18:23; WARNING; 0; Client started
+10.11.2017 17:18:23; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:18:23; WARNING; 0; Client started
+10.11.2017 17:18:23; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:18:23; WARNING; 0; Client started
+10.11.2017 17:18:23; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:18:23; WARNING; 0; Client started
+10.11.2017 17:18:23; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:18:23; WARNING; 0; Client started
+10.11.2017 17:18:23; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:18:23; WARNING; 0; Client started
+10.11.2017 17:18:23; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:18:23; WARNING; 0; Client started
+10.11.2017 17:18:23; WARNING; 0; HTTP/JSON client started
+10.11.2017 17:18:25; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05276", "longitude": "72.8474", "timeStamp": "1510314501", "speed": "3.88889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314501","serverTimeStamp": "1510314505"}]
+10.11.2017 17:18:25; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314505", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314505"}]
+10.11.2017 17:18:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:811.4244/-69.0238/69.0238
+10.11.2017 17:18:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:609.4404/-100.3511/100.3511
+10.11.2017 17:18:30; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.0528", "longitude": "72.84719", "timeStamp": "1510314506", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314506","serverTimeStamp": "1510314510"}]
+10.11.2017 17:18:30; INFO; 0; 1 point sent of 1.Times for query/session/delete:416.4982/-68.9623/68.9623
+10.11.2017 17:18:31; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314511", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314511"}]
+10.11.2017 17:18:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:486.9248/-69.3327/69.3327
+10.11.2017 17:18:36; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05301", "longitude": "72.84699", "timeStamp": "1510314511", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314511","serverTimeStamp": "1510314516"}]
+10.11.2017 17:18:36; INFO; 0; 1 point sent of 1.Times for query/session/delete:450.6016/-65.1203/65.1203
+10.11.2017 17:18:37; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314517", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314517"}]
+10.11.2017 17:18:37; INFO; 0; 1 point sent of 1.Times for query/session/delete:416.5978/-62.5017/62.5017
+10.11.2017 17:18:42; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05326", "longitude": "72.84682", "timeStamp": "1510314516", "speed": "5.27778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314516","serverTimeStamp": "1510314522"}]
+10.11.2017 17:18:42; INFO; 0; 1 point sent of 1.Times for query/session/delete:564.0499/-179.1311/179.1311
+10.11.2017 17:18:43; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314523", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314523"}]
+10.11.2017 17:18:49; INFO; 0; 1 point sent of 1.Times for query/session/delete:6930.8587/-6561.7244/6561.7244
+10.11.2017 17:18:51; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05347", "longitude": "72.84668", "timeStamp": "1510314531", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314531","serverTimeStamp": "1510314532"}]
+10.11.2017 17:18:51; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314532", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314532"}]
+10.11.2017 17:18:52; INFO; 0; 1 point sent of 1.Times for query/session/delete:570.376/-68.5484/68.5484
+10.11.2017 17:18:52; INFO; 0; 1 point sent of 1.Times for query/session/delete:570.376/-52.9347/52.9347
+10.11.2017 17:20:26; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05511", "longitude": "72.84627", "timeStamp": "1510314606", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510314606","serverTimeStamp": "1510314627"}]
+10.11.2017 17:20:26; INFO; 0; Standing >> [{"deviceId": "358735070786347", "latitude": "19.05616", "longitude": "72.84527", "timeStamp": "1510314627", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510312969","serverTimeStamp": "1510314627"}]
+10.11.2017 17:20:27; INFO; 0; 1 point sent of 1.Times for query/session/delete:430.7117/-68.5775/68.5775
+10.11.2017 17:20:27; INFO; 0; 1 point sent of 1.Times for query/session/delete:461.9473/-62.4947/62.4947
+10.11.2017 19:12:22; WARNING; 0; Client started
+10.11.2017 19:12:22; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:12:22; WARNING; 0; Client started
+10.11.2017 19:12:22; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:12:22; WARNING; 0; Client started
+10.11.2017 19:12:22; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:12:22; WARNING; 0; Client started
+10.11.2017 19:12:22; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:12:22; WARNING; 0; Client started
+10.11.2017 19:12:22; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:12:22; WARNING; 0; Client started
+10.11.2017 19:12:22; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:12:22; WARNING; 0; Client started
+10.11.2017 19:12:22; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:12:22; WARNING; 0; Client started
+10.11.2017 19:12:22; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:13:03; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05622", "longitude": "72.85153", "timeStamp": "1510321376", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321376","serverTimeStamp": "1510321383"}]
+10.11.2017 19:13:03; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05806", "longitude": "72.85329", "timeStamp": "1510321381", "speed": "12.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321381","serverTimeStamp": "1510321383"}]
+10.11.2017 19:13:03; INFO; 0; 1 point sent of 1.Times for query/session/delete:405.1065/-62.5226/62.5226
+10.11.2017 19:13:03; INFO; 0; 1 point sent of 1.Times for query/session/delete:467.6284/-62.5213/62.5213
+10.11.2017 19:13:09; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05622", "longitude": "72.85153", "timeStamp": "1510321376", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321376","serverTimeStamp": "1510321390"}]
+10.11.2017 19:13:09; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05844", "longitude": "72.85368", "timeStamp": "1510321386", "speed": "11.11111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321386","serverTimeStamp": "1510321390"}]
+10.11.2017 19:13:09; INFO; 0; 1 point sent of 1.Times for query/session/delete:416.0217/-68.6424/68.6424
+10.11.2017 19:13:10; INFO; 0; 1 point sent of 1.Times for query/session/delete:641.8762/-62.2077/62.2077
+10.11.2017 19:13:15; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05622", "longitude": "72.85153", "timeStamp": "1510321376", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321376","serverTimeStamp": "1510321395"}]
+10.11.2017 19:13:15; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05881", "longitude": "72.85405", "timeStamp": "1510321391", "speed": "10.83333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321391","serverTimeStamp": "1510321395"}]
+10.11.2017 19:13:15; INFO; 0; 1 point sent of 1.Times for query/session/delete:400.4166/-53.2479/53.2479
+10.11.2017 19:13:15; INFO; 0; 1 point sent of 1.Times for query/session/delete:447.4795/-68.8874/68.8874
+10.11.2017 19:13:21; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05597", "longitude": "72.8513", "timeStamp": "1510321401", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321401","serverTimeStamp": "1510321401"}]
+10.11.2017 19:13:21; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05922", "longitude": "72.85456", "timeStamp": "1510321401", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321401","serverTimeStamp": "1510321401"}]
+10.11.2017 19:13:21; INFO; 0; 1 point sent of 1.Times for query/session/delete:416.7041/-69.0374/69.0374
+10.11.2017 19:13:22; INFO; 0; 1 point sent of 1.Times for query/session/delete:684.248/-64.0072/64.0072
+10.11.2017 19:13:53; WARNING; 0; Client started
+10.11.2017 19:13:53; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:13:53; WARNING; 0; Client started
+10.11.2017 19:13:53; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:13:53; WARNING; 0; Client started
+10.11.2017 19:13:53; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:13:53; WARNING; 0; Client started
+10.11.2017 19:13:53; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:13:53; WARNING; 0; Client started
+10.11.2017 19:13:53; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:13:53; WARNING; 0; Client started
+10.11.2017 19:13:53; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:13:53; WARNING; 0; Client started
+10.11.2017 19:13:53; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:13:53; WARNING; 0; Client started
+10.11.2017 19:13:53; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:13:56; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05435", "longitude": "72.8494", "timeStamp": "1510321436", "speed": "8.05556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321436","serverTimeStamp": "1510321437"}]
+10.11.2017 19:13:56; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05995", "longitude": "72.85642", "timeStamp": "1510321431", "speed": "10.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321431","serverTimeStamp": "1510321437"}]
+10.11.2017 19:13:56; INFO; 0; 1 point sent of 1.Times for query/session/delete:403.5491/-68.5328/68.5328
+10.11.2017 19:13:57; INFO; 0; 1 point sent of 1.Times for query/session/delete:671.8862/-69.5595/69.5595
+10.11.2017 19:14:02; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05408", "longitude": "72.84915", "timeStamp": "1510321441", "speed": "7.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321441","serverTimeStamp": "1510321443"}]
+10.11.2017 19:14:02; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06023", "longitude": "72.85722", "timeStamp": "1510321441", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321441","serverTimeStamp": "1510321443"}]
+10.11.2017 19:14:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:417.5616/-69.4999/69.4999
+10.11.2017 19:14:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:417.5616/-69.4999/69.4999
+10.11.2017 19:14:08; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05382", "longitude": "72.84889", "timeStamp": "1510321446", "speed": "7.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321446","serverTimeStamp": "1510321449"}]
+10.11.2017 19:14:08; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06041", "longitude": "72.85756", "timeStamp": "1510321446", "speed": "8.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321446","serverTimeStamp": "1510321449"}]
+10.11.2017 19:14:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:569.9664/-69.5151/69.5151
+10.11.2017 19:14:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:569.9664/-53.8938/53.8938
+10.11.2017 19:14:14; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05358", "longitude": "72.84862", "timeStamp": "1510321451", "speed": "7.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321451","serverTimeStamp": "1510321455"}]
+10.11.2017 19:14:14; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06057", "longitude": "72.85786", "timeStamp": "1510321451", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321451","serverTimeStamp": "1510321455"}]
+10.11.2017 19:14:15; INFO; 0; 1 point sent of 1.Times for query/session/delete:434.7506/-64.6611/64.6611
+10.11.2017 19:14:15; INFO; 0; 1 point sent of 1.Times for query/session/delete:416.4598/-60.2852/60.2852
+10.11.2017 19:14:20; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06057", "longitude": "72.85786", "timeStamp": "1510321451", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321451","serverTimeStamp": "1510321460"}]
+10.11.2017 19:14:20; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05342", "longitude": "72.84841", "timeStamp": "1510321456", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321456","serverTimeStamp": "1510321460"}]
+10.11.2017 19:14:20; INFO; 0; 1 point sent of 1.Times for query/session/delete:585.6022/-69.0542/69.0542
+10.11.2017 19:14:20; INFO; 0; 1 point sent of 1.Times for query/session/delete:585.6022/-69.0542/69.0542
+10.11.2017 19:14:26; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06059", "longitude": "72.85799", "timeStamp": "1510321461", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321461","serverTimeStamp": "1510321466"}]
+10.11.2017 19:14:26; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05342", "longitude": "72.84841", "timeStamp": "1510321456", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321456","serverTimeStamp": "1510321466"}]
+10.11.2017 19:14:26; INFO; 0; 1 point sent of 1.Times for query/session/delete:416.5005/-62.5001/62.5001
+10.11.2017 19:14:26; INFO; 0; 1 point sent of 1.Times for query/session/delete:453.7977/-68.5564/68.5564
+10.11.2017 19:14:32; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06065", "longitude": "72.85847", "timeStamp": "1510321471", "speed": "7.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321471","serverTimeStamp": "1510321472"}]
+10.11.2017 19:14:32; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05342", "longitude": "72.84841", "timeStamp": "1510321456", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321456","serverTimeStamp": "1510321472"}]
+10.11.2017 19:14:32; INFO; 0; 1 point sent of 1.Times for query/session/delete:407.1403/-68.2153/68.2153
+10.11.2017 19:14:32; INFO; 0; 1 point sent of 1.Times for query/session/delete:470.4674/-62.8344/62.8344
+10.11.2017 19:14:38; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.0607", "longitude": "72.85879", "timeStamp": "1510321476", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321476","serverTimeStamp": "1510321478"}]
+10.11.2017 19:14:38; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05342", "longitude": "72.84841", "timeStamp": "1510321456", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321456","serverTimeStamp": "1510321478"}]
+10.11.2017 19:14:38; INFO; 0; 1 point sent of 1.Times for query/session/delete:416.3726/-46.8774/46.8774
+10.11.2017 19:14:38; INFO; 0; 1 point sent of 1.Times for query/session/delete:554.6606/-68.6745/68.6745
+10.11.2017 19:20:05; WARNING; 0; Client started
+10.11.2017 19:20:05; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:20:05; WARNING; 0; Client started
+10.11.2017 19:20:05; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:20:05; WARNING; 0; Client started
+10.11.2017 19:20:05; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:20:05; WARNING; 0; Client started
+10.11.2017 19:20:05; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:20:05; WARNING; 0; Client started
+10.11.2017 19:20:05; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:20:05; WARNING; 0; Client started
+10.11.2017 19:20:05; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:20:05; WARNING; 0; Client started
+10.11.2017 19:20:05; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:20:05; WARNING; 0; Client started
+10.11.2017 19:20:05; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:20:06; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05533", "longitude": "72.84397", "timeStamp": "1510321805", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321805","serverTimeStamp": "1510321807"}]
+10.11.2017 19:20:07; INFO; 0; 1 point sent of 1.Times for query/session/delete:602.8433/-62.5004/62.5004
+10.11.2017 19:20:08; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.0644", "longitude": "72.8632", "timeStamp": "1510321805", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321805","serverTimeStamp": "1510321808"}]
+10.11.2017 19:20:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:515.6037/-68.5907/68.5907
+10.11.2017 19:20:12; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05529", "longitude": "72.84382", "timeStamp": "1510321810", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321810","serverTimeStamp": "1510321812"}]
+10.11.2017 19:20:12; INFO; 0; 1 point sent of 1.Times for query/session/delete:631.9828/-68.8682/68.8682
+10.11.2017 19:20:15; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06427", "longitude": "72.86339", "timeStamp": "1510321810", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321810","serverTimeStamp": "1510321815"}]
+10.11.2017 19:20:15; INFO; 0; 1 point sent of 1.Times for query/session/delete:501.5273/-53.4482/53.4482
+10.11.2017 19:20:18; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05529", "longitude": "72.84382", "timeStamp": "1510321810", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321810","serverTimeStamp": "1510321818"}]
+10.11.2017 19:20:18; INFO; 0; 1 point sent of 1.Times for query/session/delete:487.9352/-56.9044/56.9044
+10.11.2017 19:21:12; WARNING; 0; Client started
+10.11.2017 19:21:12; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:21:12; WARNING; 0; Client started
+10.11.2017 19:21:12; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:21:12; WARNING; 0; Client started
+10.11.2017 19:21:12; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:21:12; WARNING; 0; Client started
+10.11.2017 19:21:12; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:21:12; WARNING; 0; Client started
+10.11.2017 19:21:12; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:21:12; WARNING; 0; Client started
+10.11.2017 19:21:12; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:21:12; WARNING; 0; Client started
+10.11.2017 19:21:12; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:21:12; WARNING; 0; Client started
+10.11.2017 19:21:12; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:21:14; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05529", "longitude": "72.84382", "timeStamp": "1510321810", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321810","serverTimeStamp": "1510321875"}]
+10.11.2017 19:21:15; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06302", "longitude": "72.86506", "timeStamp": "1510321873", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510321873","serverTimeStamp": "1510321875"}]
+10.11.2017 19:21:15; INFO; 0; 1 point sent of 1.Times for query/session/delete:414.1584/-80.6648/80.6648
+10.11.2017 19:21:15; INFO; 0; 1 point sent of 1.Times for query/session/delete:690.5078/-62.5057/62.5057
+10.11.2017 19:25:10; WARNING; 0; Client started
+10.11.2017 19:25:10; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:25:10; WARNING; 0; Client started
+10.11.2017 19:25:10; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:25:10; WARNING; 0; Client started
+10.11.2017 19:25:10; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:25:10; WARNING; 0; Client started
+10.11.2017 19:25:10; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:25:10; WARNING; 0; Client started
+10.11.2017 19:25:10; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:25:10; WARNING; 0; Client started
+10.11.2017 19:25:10; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:25:10; WARNING; 0; Client started
+10.11.2017 19:25:10; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:25:10; WARNING; 0; Client started
+10.11.2017 19:25:10; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:25:13; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05462", "longitude": "72.84254", "timeStamp": "1510321960", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510321960","serverTimeStamp": "1510322114"}]
+10.11.2017 19:25:13; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06557", "longitude": "72.8629", "timeStamp": "1510322110", "speed": "9.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322110","serverTimeStamp": "1510322114"}]
+10.11.2017 19:25:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:501.5247/-68.3944/68.3944
+10.11.2017 19:25:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:517.1576/-62.6163/62.6163
+10.11.2017 19:25:19; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05485", "longitude": "72.84195", "timeStamp": "1510322115", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322115","serverTimeStamp": "1510322120"}]
+10.11.2017 19:25:19; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06533", "longitude": "72.86252", "timeStamp": "1510322115", "speed": "8.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322115","serverTimeStamp": "1510322120"}]
+10.11.2017 19:25:19; INFO; 0; 1 point sent of 1.Times for query/session/delete:670.4496/-68.9711/68.9711
+10.11.2017 19:25:19; INFO; 0; 1 point sent of 1.Times for query/session/delete:654.8489/-68.9877/68.9877
+10.11.2017 19:25:25; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05496", "longitude": "72.84191", "timeStamp": "1510322120", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322120","serverTimeStamp": "1510322125"}]
+10.11.2017 19:25:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:485.4253/-68.601/68.601
+10.11.2017 19:25:25; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06512", "longitude": "72.86211", "timeStamp": "1510322125", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322125","serverTimeStamp": "1510322126"}]
+10.11.2017 19:25:26; INFO; 0; 1 point sent of 1.Times for query/session/delete:617.062/-69.09/69.09
+10.11.2017 19:25:31; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05511", "longitude": "72.84187", "timeStamp": "1510322130", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322130","serverTimeStamp": "1510322131"}]
+10.11.2017 19:25:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:485.4637/-50.5843/50.5843
+10.11.2017 19:25:31; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06507", "longitude": "72.86198", "timeStamp": "1510322130", "speed": "3.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322130","serverTimeStamp": "1510322132"}]
+10.11.2017 19:25:32; INFO; 0; 1 point sent of 1.Times for query/session/delete:651.7566/-80.6645/80.6645
+10.11.2017 19:25:37; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06496", "longitude": "72.86182", "timeStamp": "1510322135", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322135","serverTimeStamp": "1510322137"}]
+10.11.2017 19:25:37; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05529", "longitude": "72.84179", "timeStamp": "1510322135", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322135","serverTimeStamp": "1510322137"}]
+10.11.2017 19:25:37; INFO; 0; 1 point sent of 1.Times for query/session/delete:474.4263/-56.3383/56.3383
+10.11.2017 19:25:37; INFO; 0; 1 point sent of 1.Times for query/session/delete:474.4263/-56.3383/56.3383
+10.11.2017 19:25:44; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05547", "longitude": "72.8417", "timeStamp": "1510322140", "speed": "3.88889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322140","serverTimeStamp": "1510322144"}]
+10.11.2017 19:25:44; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06481", "longitude": "72.86164", "timeStamp": "1510322140", "speed": "5.83333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322140","serverTimeStamp": "1510322144"}]
+10.11.2017 19:25:44; INFO; 0; 1 point sent of 1.Times for query/session/delete:515.7289/-62.564/62.564
+10.11.2017 19:25:44; INFO; 0; 1 point sent of 1.Times for query/session/delete:556.0347/-71.5563/71.5563
+10.11.2017 19:25:49; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05563", "longitude": "72.84157", "timeStamp": "1510322145", "speed": "3.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322145","serverTimeStamp": "1510322149"}]
+10.11.2017 19:25:49; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06464", "longitude": "72.86142", "timeStamp": "1510322145", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322145","serverTimeStamp": "1510322149"}]
+10.11.2017 19:25:49; INFO; 0; 1 point sent of 1.Times for query/session/delete:476.1463/-58.9664/58.9664
+10.11.2017 19:25:50; INFO; 0; 1 point sent of 1.Times for query/session/delete:626.0656/-67.4574/67.4574
+10.11.2017 19:25:55; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05596", "longitude": "72.8413", "timeStamp": "1510322155", "speed": "5.83333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322155","serverTimeStamp": "1510322155"}]
+10.11.2017 19:25:55; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06464", "longitude": "72.86142", "timeStamp": "1510322145", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322145","serverTimeStamp": "1510322155"}]
+10.11.2017 19:25:55; INFO; 0; 1 point sent of 1.Times for query/session/delete:485.0028/-68.5103/68.5103
+10.11.2017 19:25:55; INFO; 0; 1 point sent of 1.Times for query/session/delete:516.253/-62.815/62.815
+10.11.2017 19:26:01; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05618", "longitude": "72.84127", "timeStamp": "1510322160", "speed": "3.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322160","serverTimeStamp": "1510322161"}]
+10.11.2017 19:26:01; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06459", "longitude": "72.86124", "timeStamp": "1510322160", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322160","serverTimeStamp": "1510322161"}]
+10.11.2017 19:26:01; INFO; 0; 1 point sent of 1.Times for query/session/delete:518.6981/-68.8314/68.8314
+10.11.2017 19:26:01; INFO; 0; 1 point sent of 1.Times for query/session/delete:487.2883/-57.3352/57.3352
+10.11.2017 19:26:07; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05644", "longitude": "72.84129", "timeStamp": "1510322165", "speed": "5.27778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322165","serverTimeStamp": "1510322167"}]
+10.11.2017 19:26:07; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06448", "longitude": "72.86108", "timeStamp": "1510322165", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322165","serverTimeStamp": "1510322167"}]
+10.11.2017 19:26:07; INFO; 0; 1 point sent of 1.Times for query/session/delete:522.628/-69.2433/69.2433
+10.11.2017 19:26:07; INFO; 0; 1 point sent of 1.Times for query/session/delete:569.5038/-62.8662/62.8662
+10.11.2017 19:26:13; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05671", "longitude": "72.84127", "timeStamp": "1510322170", "speed": "5.83333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322170","serverTimeStamp": "1510322173"}]
+10.11.2017 19:26:13; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06428", "longitude": "72.86083", "timeStamp": "1510322170", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322170","serverTimeStamp": "1510322173"}]
+10.11.2017 19:26:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:496.0359/-64.5495/64.5495
+10.11.2017 19:26:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:500.5525/-69.0738/69.0738
+10.11.2017 19:26:19; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05706", "longitude": "72.84126", "timeStamp": "1510322175", "speed": "8.05556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322175","serverTimeStamp": "1510322179"}]
+10.11.2017 19:26:19; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06404", "longitude": "72.86051", "timeStamp": "1510322175", "speed": "8.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322175","serverTimeStamp": "1510322179"}]
+10.11.2017 19:26:19; INFO; 0; 1 point sent of 1.Times for query/session/delete:501.6495/-69.0043/69.0043
+10.11.2017 19:26:19; INFO; 0; 1 point sent of 1.Times for query/session/delete:539.3297/-69.0043/69.0043
+10.11.2017 19:26:25; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05788", "longitude": "72.84121", "timeStamp": "1510322185", "speed": "9.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322185","serverTimeStamp": "1510322185"}]
+10.11.2017 19:26:25; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06342", "longitude": "72.86002", "timeStamp": "1510322185", "speed": "8.05556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322185","serverTimeStamp": "1510322185"}]
+10.11.2017 19:26:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:516.2832/-64.4118/64.4118
+10.11.2017 19:26:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:537.9845/-68.5649/68.5649
+10.11.2017 19:26:31; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05788", "longitude": "72.84121", "timeStamp": "1510322185", "speed": "9.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322185","serverTimeStamp": "1510322191"}]
+10.11.2017 19:26:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:502.647/-68.5755/68.5755
+10.11.2017 19:26:31; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06311", "longitude": "72.85982", "timeStamp": "1510322190", "speed": "7.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322190","serverTimeStamp": "1510322192"}]
+10.11.2017 19:26:32; INFO; 0; 1 point sent of 1.Times for query/session/delete:500.439/-68.5768/68.5768
+10.11.2017 19:26:37; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05879", "longitude": "72.84119", "timeStamp": "1510322195", "speed": "10", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322195","serverTimeStamp": "1510322197"}]
+10.11.2017 19:26:37; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06286", "longitude": "72.85971", "timeStamp": "1510322195", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322195","serverTimeStamp": "1510322197"}]
+10.11.2017 19:26:37; INFO; 0; 1 point sent of 1.Times for query/session/delete:569.5095/-69.0092/69.0092
+10.11.2017 19:26:38; INFO; 0; 1 point sent of 1.Times for query/session/delete:1621.5148/-67.8941/67.8941
+10.11.2017 19:26:43; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05921", "longitude": "72.84126", "timeStamp": "1510322200", "speed": "9.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322200","serverTimeStamp": "1510322203"}]
+10.11.2017 19:26:43; INFO; 0; 1 point sent of 1.Times for query/session/delete:486.5496/-68.6159/68.6159
+10.11.2017 19:26:43; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06286", "longitude": "72.85971", "timeStamp": "1510322195", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322195","serverTimeStamp": "1510322204"}]
+10.11.2017 19:26:44; INFO; 0; 1 point sent of 1.Times for query/session/delete:754.7435/-68.7172/68.7172
+10.11.2017 19:26:49; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05959", "longitude": "72.84133", "timeStamp": "1510322205", "speed": "8.88889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322205","serverTimeStamp": "1510322209"}]
+10.11.2017 19:26:49; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06286", "longitude": "72.85971", "timeStamp": "1510322195", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322195","serverTimeStamp": "1510322209"}]
+10.11.2017 19:26:49; INFO; 0; 1 point sent of 1.Times for query/session/delete:465.1347/-54.3653/54.3653
+10.11.2017 19:26:49; INFO; 0; 1 point sent of 1.Times for query/session/delete:580.9002/-50.7456/50.7456
+10.11.2017 19:26:55; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06032", "longitude": "72.84142", "timeStamp": "1510322215", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322215","serverTimeStamp": "1510322215"}]
+10.11.2017 19:26:55; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06286", "longitude": "72.85971", "timeStamp": "1510322195", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322195","serverTimeStamp": "1510322215"}]
+10.11.2017 19:26:55; INFO; 0; 1 point sent of 1.Times for query/session/delete:557.5603/-65.0219/65.0219
+10.11.2017 19:26:55; INFO; 0; 1 point sent of 1.Times for query/session/delete:505.1153/-69.0344/69.0344
+10.11.2017 19:27:01; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06032", "longitude": "72.84142", "timeStamp": "1510322215", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322215","serverTimeStamp": "1510322221"}]
+10.11.2017 19:27:01; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06286", "longitude": "72.85971", "timeStamp": "1510322195", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322195","serverTimeStamp": "1510322221"}]
+10.11.2017 19:27:01; INFO; 0; 1 point sent of 1.Times for query/session/delete:547.6996/-69.2248/69.2248
+10.11.2017 19:27:01; INFO; 0; 1 point sent of 1.Times for query/session/delete:478.5095/-68.6636/68.6636
+10.11.2017 19:27:07; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06064", "longitude": "72.84144", "timeStamp": "1510322220", "speed": "6.11111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322220","serverTimeStamp": "1510322227"}]
+10.11.2017 19:27:07; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06286", "longitude": "72.85971", "timeStamp": "1510322195", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322195","serverTimeStamp": "1510322227"}]
+10.11.2017 19:27:07; INFO; 0; 1 point sent of 1.Times for query/session/delete:512.0317/-62.5024/62.5024
+10.11.2017 19:27:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:1407.1277/-63.3837/63.3837
+10.11.2017 19:27:13; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06088", "longitude": "72.84145", "timeStamp": "1510322230", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322230","serverTimeStamp": "1510322233"}]
+10.11.2017 19:27:13; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06254", "longitude": "72.85955", "timeStamp": "1510322230", "speed": "3.88889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322230","serverTimeStamp": "1510322233"}]
+10.11.2017 19:27:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:577.9972/-62.5007/62.5007
+10.11.2017 19:27:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:903.8735/-71.89/71.89
+10.11.2017 19:27:19; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06088", "longitude": "72.84145", "timeStamp": "1510322230", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322230","serverTimeStamp": "1510322239"}]
+10.11.2017 19:27:19; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06234", "longitude": "72.85949", "timeStamp": "1510322235", "speed": "5.27778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322235","serverTimeStamp": "1510322239"}]
+10.11.2017 19:27:19; INFO; 0; 1 point sent of 1.Times for query/session/delete:481.5453/-62.5014/62.5014
+10.11.2017 19:27:19; INFO; 0; 1 point sent of 1.Times for query/session/delete:502.508/-67.8392/67.8392
+10.11.2017 19:27:25; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06182", "longitude": "72.84146", "timeStamp": "1510322245", "speed": "8.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322245","serverTimeStamp": "1510322245"}]
+10.11.2017 19:27:25; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06203", "longitude": "72.85942", "timeStamp": "1510322245", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322245","serverTimeStamp": "1510322245"}]
+10.11.2017 19:27:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:491.3749/-71.4126/71.4126
+10.11.2017 19:27:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:507.0087/-71.4215/71.4215
+10.11.2017 19:27:31; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06223", "longitude": "72.84148", "timeStamp": "1510322250", "speed": "8.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322250","serverTimeStamp": "1510322251"}]
+10.11.2017 19:27:31; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06203", "longitude": "72.85942", "timeStamp": "1510322245", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322245","serverTimeStamp": "1510322251"}]
+10.11.2017 19:27:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:476.52/-62.61/62.61
+10.11.2017 19:27:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:652.1701/-56.7879/56.7879
+10.11.2017 19:27:37; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06256", "longitude": "72.8415", "timeStamp": "1510322255", "speed": "6.38889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322255","serverTimeStamp": "1510322257"}]
+10.11.2017 19:27:37; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06203", "longitude": "72.85942", "timeStamp": "1510322245", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322245","serverTimeStamp": "1510322257"}]
+10.11.2017 19:27:37; INFO; 0; 1 point sent of 1.Times for query/session/delete:469.6103/-68.9785/68.9785
+10.11.2017 19:27:37; INFO; 0; 1 point sent of 1.Times for query/session/delete:498.8498/-62.5077/62.5077
+10.11.2017 19:27:43; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06203", "longitude": "72.85942", "timeStamp": "1510322245", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322245","serverTimeStamp": "1510322263"}]
+10.11.2017 19:27:43; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06256", "longitude": "72.8415", "timeStamp": "1510322255", "speed": "6.38889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322255","serverTimeStamp": "1510322263"}]
+10.11.2017 19:27:43; INFO; 0; 1 point sent of 1.Times for query/session/delete:492.9217/-74.7331/74.7331
+10.11.2017 19:27:43; INFO; 0; 1 point sent of 1.Times for query/session/delete:658.6361/-62.5106/62.5106
+10.11.2017 19:27:49; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06203", "longitude": "72.85942", "timeStamp": "1510322245", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322245","serverTimeStamp": "1510322269"}]
+10.11.2017 19:27:49; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06276", "longitude": "72.84147", "timeStamp": "1510322260", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322260","serverTimeStamp": "1510322269"}]
+10.11.2017 19:27:49; INFO; 0; 1 point sent of 1.Times for query/session/delete:469.8788/-53.4267/53.4267
+10.11.2017 19:27:49; INFO; 0; 1 point sent of 1.Times for query/session/delete:469.8788/-53.4267/53.4267
+10.11.2017 19:27:55; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06285", "longitude": "72.84152", "timeStamp": "1510322275", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322275","serverTimeStamp": "1510322275"}]
+10.11.2017 19:27:55; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06155", "longitude": "72.85931", "timeStamp": "1510322275", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322275","serverTimeStamp": "1510322275"}]
+10.11.2017 19:27:55; INFO; 0; 1 point sent of 1.Times for query/session/delete:481.9767/-69.2006/69.2006
+10.11.2017 19:27:55; INFO; 0; 1 point sent of 1.Times for query/session/delete:560.9516/-52.253/52.253
+10.11.2017 19:28:01; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06281", "longitude": "72.84167", "timeStamp": "1510322280", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322280","serverTimeStamp": "1510322281"}]
+10.11.2017 19:28:01; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06129", "longitude": "72.85924", "timeStamp": "1510322280", "speed": "6.11111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322280","serverTimeStamp": "1510322281"}]
+10.11.2017 19:28:01; INFO; 0; 1 point sent of 1.Times for query/session/delete:487.8425/-71.9966/71.9966
+10.11.2017 19:28:01; INFO; 0; 1 point sent of 1.Times for query/session/delete:812.5402/-55.5284/55.5284
+10.11.2017 19:28:07; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06269", "longitude": "72.84173", "timeStamp": "1510322285", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322285","serverTimeStamp": "1510322287"}]
+10.11.2017 19:28:07; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06099", "longitude": "72.85915", "timeStamp": "1510322285", "speed": "7.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322285","serverTimeStamp": "1510322287"}]
+10.11.2017 19:28:07; INFO; 0; 1 point sent of 1.Times for query/session/delete:487.5111/-53.8869/53.8869
+10.11.2017 19:28:07; INFO; 0; 1 point sent of 1.Times for query/session/delete:603.1213/-52.881/52.881
+10.11.2017 19:28:13; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06069", "longitude": "72.85896", "timeStamp": "1510322290", "speed": "7.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322290","serverTimeStamp": "1510322293"}]
+10.11.2017 19:28:13; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06252", "longitude": "72.84171", "timeStamp": "1510322290", "speed": "3.88889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322290","serverTimeStamp": "1510322293"}]
+10.11.2017 19:28:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:549.3516/-78.1932/78.1932
+10.11.2017 19:28:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:927.5858/-68.9744/68.9744
+10.11.2017 19:28:19; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06232", "longitude": "72.84171", "timeStamp": "1510322295", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322295","serverTimeStamp": "1510322299"}]
+10.11.2017 19:28:19; INFO; 0; 1 point sent of 1.Times for query/session/delete:508.6731/-62.5282/62.5282
+10.11.2017 19:28:25; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06042", "longitude": "72.85795", "timeStamp": "1510322305", "speed": "5.83333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322305","serverTimeStamp": "1510322305"}]
+10.11.2017 19:28:25; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06194", "longitude": "72.84167", "timeStamp": "1510322305", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322305","serverTimeStamp": "1510322305"}]
+10.11.2017 19:28:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:544.6907/-68.5414/68.5414
+10.11.2017 19:28:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:544.6907/-68.5414/68.5414
+10.11.2017 19:28:31; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06169", "longitude": "72.84164", "timeStamp": "1510322310", "speed": "6.38889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322310","serverTimeStamp": "1510322311"}]
+10.11.2017 19:28:31; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.0603", "longitude": "72.8577", "timeStamp": "1510322310", "speed": "6.11111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322310","serverTimeStamp": "1510322311"}]
+10.11.2017 19:28:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:507.3742/-54.4825/54.4825
+10.11.2017 19:28:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:622.8564/-62.5286/62.5286
+10.11.2017 19:28:37; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06169", "longitude": "72.84164", "timeStamp": "1510322310", "speed": "6.38889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322310","serverTimeStamp": "1510322317"}]
+10.11.2017 19:28:37; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06018", "longitude": "72.85744", "timeStamp": "1510322315", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322315","serverTimeStamp": "1510322317"}]
+10.11.2017 19:28:37; INFO; 0; 1 point sent of 1.Times for query/session/delete:483.6288/-68.7146/68.7146
+10.11.2017 19:28:37; INFO; 0; 1 point sent of 1.Times for query/session/delete:684.5109/-69.4791/69.4791
+10.11.2017 19:28:43; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06109", "longitude": "72.84155", "timeStamp": "1510322320", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322320","serverTimeStamp": "1510322323"}]
+10.11.2017 19:28:43; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.06001", "longitude": "72.85716", "timeStamp": "1510322320", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322320","serverTimeStamp": "1510322323"}]
+10.11.2017 19:28:43; INFO; 0; 1 point sent of 1.Times for query/session/delete:494.3798/-53.1445/53.1445
+10.11.2017 19:28:44; INFO; 0; 1 point sent of 1.Times for query/session/delete:663.2459/-68.8109/68.8109
+10.11.2017 19:28:55; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06051", "longitude": "72.84153", "timeStamp": "1510322330", "speed": "6.38889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322330","serverTimeStamp": "1510322335"}]
+10.11.2017 19:28:55; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05974", "longitude": "72.85643", "timeStamp": "1510322330", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322330","serverTimeStamp": "1510322335"}]
+10.11.2017 19:28:55; INFO; 0; 1 point sent of 1.Times for query/session/delete:501.4584/-69.5366/69.5366
+10.11.2017 19:28:55; INFO; 0; 1 point sent of 1.Times for query/session/delete:548.3389/-78.1466/78.1466
+10.11.2017 19:29:01; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.06051", "longitude": "72.84153", "timeStamp": "1510322330", "speed": "6.38889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322330","serverTimeStamp": "1510322341"}]
+10.11.2017 19:29:01; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05974", "longitude": "72.85643", "timeStamp": "1510322330", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322330","serverTimeStamp": "1510322341"}]
+10.11.2017 19:29:01; INFO; 0; 1 point sent of 1.Times for query/session/delete:518.3994/-75.1833/75.1833
+10.11.2017 19:29:01; INFO; 0; 1 point sent of 1.Times for query/session/delete:484.1655/-62.8739/62.8739
+10.11.2017 19:29:07; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05978", "longitude": "72.84145", "timeStamp": "1510322345", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322345","serverTimeStamp": "1510322347"}]
+10.11.2017 19:29:07; INFO; 0; 1 point sent of 1.Times for query/session/delete:471.1108/-70.1578/70.1578
+10.11.2017 19:29:07; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05974", "longitude": "72.85643", "timeStamp": "1510322330", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322330","serverTimeStamp": "1510322348"}]
+10.11.2017 19:29:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:613.9061/-68.6159/68.6159
+10.11.2017 19:29:13; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05978", "longitude": "72.84145", "timeStamp": "1510322345", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322345","serverTimeStamp": "1510322353"}]
+10.11.2017 19:29:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:485.795/-53.3455/53.3455
+10.11.2017 19:29:13; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05974", "longitude": "72.85643", "timeStamp": "1510322330", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322330","serverTimeStamp": "1510322354"}]
+10.11.2017 19:29:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:607.2663/-53.9641/53.9641
+10.11.2017 19:29:19; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05978", "longitude": "72.84145", "timeStamp": "1510322345", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322345","serverTimeStamp": "1510322359"}]
+10.11.2017 19:29:19; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05974", "longitude": "72.85643", "timeStamp": "1510322330", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322330","serverTimeStamp": "1510322359"}]
+10.11.2017 19:29:19; INFO; 0; 1 point sent of 1.Times for query/session/delete:520.43/-53.6478/53.6478
+10.11.2017 19:29:19; INFO; 0; 1 point sent of 1.Times for query/session/delete:473.527/-52.6268/52.6268
+10.11.2017 19:29:26; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05978", "longitude": "72.84145", "timeStamp": "1510322345", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322345","serverTimeStamp": "1510322366"}]
+10.11.2017 19:29:26; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05974", "longitude": "72.85643", "timeStamp": "1510322330", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322330","serverTimeStamp": "1510322366"}]
+10.11.2017 19:29:26; INFO; 0; 1 point sent of 1.Times for query/session/delete:563.0954/-68.5652/68.5652
+10.11.2017 19:29:26; INFO; 0; 1 point sent of 1.Times for query/session/delete:653.35/-68.2487/68.2487
+10.11.2017 19:29:32; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05877", "longitude": "72.84127", "timeStamp": "1510322370", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322370","serverTimeStamp": "1510322372"}]
+10.11.2017 19:29:32; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05971", "longitude": "72.85609", "timeStamp": "1510322370", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322370","serverTimeStamp": "1510322372"}]
+10.11.2017 19:29:32; INFO; 0; 1 point sent of 1.Times for query/session/delete:473.3598/-68.3053/68.3053
+10.11.2017 19:29:32; INFO; 0; 1 point sent of 1.Times for query/session/delete:522.9181/-80.8088/80.8088
+10.11.2017 19:29:38; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05865", "longitude": "72.84127", "timeStamp": "1510322375", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322375","serverTimeStamp": "1510322378"}]
+10.11.2017 19:29:38; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05971", "longitude": "72.85609", "timeStamp": "1510322370", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322370","serverTimeStamp": "1510322378"}]
+10.11.2017 19:29:38; INFO; 0; 1 point sent of 1.Times for query/session/delete:507.8812/-53.4078/53.4078
+10.11.2017 19:29:38; INFO; 0; 1 point sent of 1.Times for query/session/delete:523.5174/-53.4178/53.4178
+10.11.2017 19:29:44; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.0597", "longitude": "72.8559", "timeStamp": "1510322380", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322380","serverTimeStamp": "1510322384"}]
+10.11.2017 19:29:44; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05865", "longitude": "72.84127", "timeStamp": "1510322375", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322375","serverTimeStamp": "1510322384"}]
+10.11.2017 19:29:44; INFO; 0; 1 point sent of 1.Times for query/session/delete:501.2641/-69.1546/69.1546
+10.11.2017 19:29:44; INFO; 0; 1 point sent of 1.Times for query/session/delete:548.1373/-62.515/62.515
+10.11.2017 19:29:50; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05839", "longitude": "72.84126", "timeStamp": "1510322385", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322385","serverTimeStamp": "1510322390"}]
+10.11.2017 19:29:50; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05969", "longitude": "72.85579", "timeStamp": "1510322385", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322385","serverTimeStamp": "1510322390"}]
+10.11.2017 19:29:50; INFO; 0; 1 point sent of 1.Times for query/session/delete:468.3796/-62.5017/62.5017
+10.11.2017 19:29:50; INFO; 0; 1 point sent of 1.Times for query/session/delete:621.6519/-61.7539/61.7539
+10.11.2017 19:29:56; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05827", "longitude": "72.84127", "timeStamp": "1510322390", "speed": "3.05556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322390","serverTimeStamp": "1510322396"}]
+10.11.2017 19:29:56; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.0596", "longitude": "72.85548", "timeStamp": "1510322395", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322395","serverTimeStamp": "1510322396"}]
+10.11.2017 19:29:56; INFO; 0; 1 point sent of 1.Times for query/session/delete:470.0231/-53.1754/53.1754
+10.11.2017 19:29:56; INFO; 0; 1 point sent of 1.Times for query/session/delete:470.0231/-53.1754/53.1754
+10.11.2017 19:30:02; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05799", "longitude": "72.84129", "timeStamp": "1510322400", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322400","serverTimeStamp": "1510322402"}]
+10.11.2017 19:30:02; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05953", "longitude": "72.85529", "timeStamp": "1510322400", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322400","serverTimeStamp": "1510322402"}]
+10.11.2017 19:30:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:485.8686/-62.4998/62.4998
+10.11.2017 19:30:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:485.8686/-62.4998/62.4998
+10.11.2017 19:30:08; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05782", "longitude": "72.84128", "timeStamp": "1510322405", "speed": "3.88889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322405","serverTimeStamp": "1510322408"}]
+10.11.2017 19:30:08; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05936", "longitude": "72.85507", "timeStamp": "1510322405", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322405","serverTimeStamp": "1510322408"}]
+10.11.2017 19:30:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:558.6151/-62.5004/62.5004
+10.11.2017 19:30:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:613.0986/-70.1137/70.1137
+10.11.2017 19:30:14; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05782", "longitude": "72.84128", "timeStamp": "1510322405", "speed": "3.88889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322405","serverTimeStamp": "1510322414"}]
+10.11.2017 19:30:14; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05914", "longitude": "72.85478", "timeStamp": "1510322410", "speed": "7.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322410","serverTimeStamp": "1510322414"}]
+10.11.2017 19:30:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:478.1533/-68.7837/68.7837
+10.11.2017 19:30:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:540.6534/-62.5001/62.5001
+10.11.2017 19:30:20; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.0575", "longitude": "72.84128", "timeStamp": "1510322415", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322415","serverTimeStamp": "1510322420"}]
+10.11.2017 19:30:20; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05899", "longitude": "72.85459", "timeStamp": "1510322415", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322415","serverTimeStamp": "1510322420"}]
+10.11.2017 19:30:20; INFO; 0; 1 point sent of 1.Times for query/session/delete:487.5819/-69.0635/69.0635
+10.11.2017 19:30:20; INFO; 0; 1 point sent of 1.Times for query/session/delete:503.2376/-69.0923/69.0923
+10.11.2017 19:30:26; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05885", "longitude": "72.85439", "timeStamp": "1510322423", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322423","serverTimeStamp": "1510322426"}]
+10.11.2017 19:30:26; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.0575", "longitude": "72.84128", "timeStamp": "1510322415", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322415","serverTimeStamp": "1510322426"}]
+10.11.2017 19:30:26; INFO; 0; 1 point sent of 1.Times for query/session/delete:474.8335/-62.5276/62.5276
+10.11.2017 19:30:26; INFO; 0; 1 point sent of 1.Times for query/session/delete:474.8335/-62.5276/62.5276
+10.11.2017 19:30:32; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.0587", "longitude": "72.85425", "timeStamp": "1510322428", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322428","serverTimeStamp": "1510322432"}]
+10.11.2017 19:30:32; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05725", "longitude": "72.84129", "timeStamp": "1510322430", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322430","serverTimeStamp": "1510322432"}]
+10.11.2017 19:30:32; INFO; 0; 1 point sent of 1.Times for query/session/delete:472.5228/-62.5269/62.5269
+10.11.2017 19:30:32; INFO; 0; 1 point sent of 1.Times for query/session/delete:572.7266/-62.5282/62.5282
+10.11.2017 19:30:38; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.0584", "longitude": "72.85403", "timeStamp": "1510322433", "speed": "7.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322433","serverTimeStamp": "1510322438"}]
+10.11.2017 19:30:38; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05709", "longitude": "72.84129", "timeStamp": "1510322435", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322435","serverTimeStamp": "1510322438"}]
+10.11.2017 19:30:38; INFO; 0; 1 point sent of 1.Times for query/session/delete:730.8198/-63.8707/63.8707
+10.11.2017 19:30:38; INFO; 0; 1 point sent of 1.Times for query/session/delete:737.3432/-62.3915/62.3915
+10.11.2017 19:30:44; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05694", "longitude": "72.84129", "timeStamp": "1510322440", "speed": "3.05556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322440","serverTimeStamp": "1510322444"}]
+10.11.2017 19:30:44; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05782", "longitude": "72.85339", "timeStamp": "1510322443", "speed": "9.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322443","serverTimeStamp": "1510322444"}]
+10.11.2017 19:30:44; INFO; 0; 1 point sent of 1.Times for query/session/delete:506.4333/-55.4933/55.4933
+10.11.2017 19:30:44; INFO; 0; 1 point sent of 1.Times for query/session/delete:537.7113/-55.5006/55.5006
+10.11.2017 19:30:50; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05682", "longitude": "72.84129", "timeStamp": "1510322445", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322445","serverTimeStamp": "1510322450"}]
+10.11.2017 19:30:50; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05762", "longitude": "72.85313", "timeStamp": "1510322448", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322448","serverTimeStamp": "1510322450"}]
+10.11.2017 19:30:50; INFO; 0; 1 point sent of 1.Times for query/session/delete:475.1275/-62.5289/62.5289
+10.11.2017 19:30:50; INFO; 0; 1 point sent of 1.Times for query/session/delete:475.1275/-62.5289/62.5289
+10.11.2017 19:30:56; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05762", "longitude": "72.85313", "timeStamp": "1510322448", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322448","serverTimeStamp": "1510322456"}]
+10.11.2017 19:30:56; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05667", "longitude": "72.84135", "timeStamp": "1510322455", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322455","serverTimeStamp": "1510322456"}]
+10.11.2017 19:30:56; INFO; 0; 1 point sent of 1.Times for query/session/delete:486.6245/-66.6562/66.6562
+10.11.2017 19:30:56; INFO; 0; 1 point sent of 1.Times for query/session/delete:486.6245/-66.6562/66.6562
+10.11.2017 19:31:02; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05667", "longitude": "72.84135", "timeStamp": "1510322455", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322455","serverTimeStamp": "1510322462"}]
+10.11.2017 19:31:02; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05756", "longitude": "72.85299", "timeStamp": "1510322458", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322458","serverTimeStamp": "1510322462"}]
+10.11.2017 19:31:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:471.7014/-49.7393/49.7393
+10.11.2017 19:31:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:487.3211/-62.521/62.521
+10.11.2017 19:31:08; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05649", "longitude": "72.84132", "timeStamp": "1510322465", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322465","serverTimeStamp": "1510322468"}]
+10.11.2017 19:31:08; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05728", "longitude": "72.85269", "timeStamp": "1510322468", "speed": "5.27778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322468","serverTimeStamp": "1510322468"}]
+10.11.2017 19:31:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:503.7787/-54.6269/54.6269
+10.11.2017 19:31:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:595.6971/-76.0776/76.0776
+10.11.2017 19:31:14; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05706", "longitude": "72.85246", "timeStamp": "1510322473", "speed": "7.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322473","serverTimeStamp": "1510322474"}]
+10.11.2017 19:31:14; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05634", "longitude": "72.84135", "timeStamp": "1510322470", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322470","serverTimeStamp": "1510322474"}]
+10.11.2017 19:31:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:474.6547/-62.5279/62.5279
+10.11.2017 19:31:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:509.7071/-66.2996/66.2996
+10.11.2017 19:31:20; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05604", "longitude": "72.84143", "timeStamp": "1510322480", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322480","serverTimeStamp": "1510322480"}]
+10.11.2017 19:31:20; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05683", "longitude": "72.85219", "timeStamp": "1510322478", "speed": "7.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322478","serverTimeStamp": "1510322480"}]
+10.11.2017 19:31:20; INFO; 0; 1 point sent of 1.Times for query/session/delete:492.3023/-68.8761/68.8761
+10.11.2017 19:31:20; INFO; 0; 1 point sent of 1.Times for query/session/delete:508.1133/-69.0609/69.0609
+10.11.2017 19:31:26; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.0559", "longitude": "72.84151", "timeStamp": "1510322485", "speed": "3.05556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322485","serverTimeStamp": "1510322486"}]
+10.11.2017 19:31:26; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05655", "longitude": "72.85192", "timeStamp": "1510322483", "speed": "7.5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322483","serverTimeStamp": "1510322486"}]
+10.11.2017 19:31:26; INFO; 0; 1 point sent of 1.Times for query/session/delete:469.6302/-52.9228/52.9228
+10.11.2017 19:31:26; INFO; 0; 1 point sent of 1.Times for query/session/delete:500.8834/-68.551/68.551
+10.11.2017 19:31:32; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05627", "longitude": "72.8516", "timeStamp": "1510322488", "speed": "8.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322488","serverTimeStamp": "1510322492"}]
+10.11.2017 19:31:32; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.0558", "longitude": "72.84158", "timeStamp": "1510322490", "speed": "3.05556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322490","serverTimeStamp": "1510322492"}]
+10.11.2017 19:31:32; INFO; 0; 1 point sent of 1.Times for query/session/delete:500.535/-68.8341/68.8341
+10.11.2017 19:31:32; INFO; 0; 1 point sent of 1.Times for query/session/delete:500.535/-68.8341/68.8341
+10.11.2017 19:31:38; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05568", "longitude": "72.84174", "timeStamp": "1510322495", "speed": "3.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322495","serverTimeStamp": "1510322498"}]
+10.11.2017 19:31:38; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05602", "longitude": "72.85136", "timeStamp": "1510322493", "speed": "3.88889", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322493","serverTimeStamp": "1510322498"}]
+10.11.2017 19:31:38; INFO; 0; 1 point sent of 1.Times for query/session/delete:489.0398/-68.8563/68.8563
+10.11.2017 19:31:38; INFO; 0; 1 point sent of 1.Times for query/session/delete:489.0398/-68.8563/68.8563
+10.11.2017 19:31:44; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.0558", "longitude": "72.85117", "timeStamp": "1510322503", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322503","serverTimeStamp": "1510322504"}]
+10.11.2017 19:31:44; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05557", "longitude": "72.84184", "timeStamp": "1510322500", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322500","serverTimeStamp": "1510322504"}]
+10.11.2017 19:31:44; INFO; 0; 1 point sent of 1.Times for query/session/delete:485.8915/-78.1383/78.1383
+10.11.2017 19:31:44; INFO; 0; 1 point sent of 1.Times for query/session/delete:539.345/-53.4535/53.4535
+10.11.2017 19:31:50; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05543", "longitude": "72.8419", "timeStamp": "1510322505", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322505","serverTimeStamp": "1510322510"}]
+10.11.2017 19:31:50; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05566", "longitude": "72.85095", "timeStamp": "1510322508", "speed": "6.11111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322508","serverTimeStamp": "1510322510"}]
+10.11.2017 19:31:50; INFO; 0; 1 point sent of 1.Times for query/session/delete:592.0382/-74.3605/74.3605
+10.11.2017 19:31:52; INFO; 0; 1 point sent of 1.Times for query/session/delete:2304.3918/-52.9427/52.9427
+10.11.2017 19:31:56; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05543", "longitude": "72.8419", "timeStamp": "1510322505", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322505","serverTimeStamp": "1510322516"}]
+10.11.2017 19:31:56; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05549", "longitude": "72.85072", "timeStamp": "1510322513", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322513","serverTimeStamp": "1510322516"}]
+10.11.2017 19:31:56; INFO; 0; 1 point sent of 1.Times for query/session/delete:486.1887/-66.6194/66.6194
+10.11.2017 19:31:56; INFO; 0; 1 point sent of 1.Times for query/session/delete:535.1676/-68.7232/68.7232
+10.11.2017 19:32:02; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05517", "longitude": "72.84199", "timeStamp": "1510322520", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322520","serverTimeStamp": "1510322522"}]
+10.11.2017 19:32:02; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05526", "longitude": "72.85043", "timeStamp": "1510322518", "speed": "8.05556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322518","serverTimeStamp": "1510322522"}]
+10.11.2017 19:32:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:517.9101/-78.1313/78.1313
+10.11.2017 19:32:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:517.9101/-62.4838/62.4838
+10.11.2017 19:32:08; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05517", "longitude": "72.84199", "timeStamp": "1510322520", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322520","serverTimeStamp": "1510322528"}]
+10.11.2017 19:32:08; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05498", "longitude": "72.85012", "timeStamp": "1510322523", "speed": "8.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322523","serverTimeStamp": "1510322528"}]
+10.11.2017 19:32:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:485.0174/-62.5285/62.5285
+10.11.2017 19:32:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:500.6427/-62.5008/62.5008
+10.11.2017 19:32:14; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05517", "longitude": "72.84199", "timeStamp": "1510322520", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322520","serverTimeStamp": "1510322534"}]
+10.11.2017 19:32:14; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.0543", "longitude": "72.84945", "timeStamp": "1510322533", "speed": "9.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322533","serverTimeStamp": "1510322534"}]
+10.11.2017 19:32:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:485.661/-67.4469/67.4469
+10.11.2017 19:32:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:587.549/-69.0284/69.0284
+10.11.2017 19:32:20; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05517", "longitude": "72.84199", "timeStamp": "1510322520", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322520","serverTimeStamp": "1510322540"}]
+10.11.2017 19:32:20; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.0543", "longitude": "72.84945", "timeStamp": "1510322533", "speed": "9.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322533","serverTimeStamp": "1510322540"}]
+10.11.2017 19:32:20; INFO; 0; 1 point sent of 1.Times for query/session/delete:501.2227/-62.7203/62.7203
+10.11.2017 19:32:20; INFO; 0; 1 point sent of 1.Times for query/session/delete:516.8483/-62.5077/62.5077
+10.11.2017 19:32:26; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.0543", "longitude": "72.84945", "timeStamp": "1510322533", "speed": "9.44444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322533","serverTimeStamp": "1510322546"}]
+10.11.2017 19:32:26; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05496", "longitude": "72.84203", "timeStamp": "1510322530", "speed": "3.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322530","serverTimeStamp": "1510322546"}]
+10.11.2017 19:32:26; INFO; 0; 1 point sent of 1.Times for query/session/delete:526.4512/-59.6505/59.6505
+10.11.2017 19:32:26; INFO; 0; 1 point sent of 1.Times for query/session/delete:539.0208/-72.2201/72.2201
+10.11.2017 19:34:03; WARNING; 0; Client started
+10.11.2017 19:34:03; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:34:03; WARNING; 0; Client started
+10.11.2017 19:34:03; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:34:03; WARNING; 0; Client started
+10.11.2017 19:34:03; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:34:03; WARNING; 0; Client started
+10.11.2017 19:34:03; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:34:03; WARNING; 0; Client started
+10.11.2017 19:34:03; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:34:03; WARNING; 0; Client started
+10.11.2017 19:34:03; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:34:03; WARNING; 0; Client started
+10.11.2017 19:34:03; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:34:03; WARNING; 0; Client started
+10.11.2017 19:34:03; WARNING; 0; HTTP/JSON client started
+10.11.2017 19:34:07; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05547", "longitude": "72.84426", "timeStamp": "1510322645", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322645","serverTimeStamp": "1510322648"}]
+10.11.2017 19:34:07; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05343", "longitude": "72.84673", "timeStamp": "1510322647", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322647","serverTimeStamp": "1510322648"}]
+10.11.2017 19:34:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:563.4218/-178.1345/178.1345
+10.11.2017 19:34:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:648.1288/-147.215/147.215
+10.11.2017 19:34:13; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05357", "longitude": "72.84666", "timeStamp": "1510322652", "speed": "3.05556", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322652","serverTimeStamp": "1510322653"}]
+10.11.2017 19:34:13; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05547", "longitude": "72.84426", "timeStamp": "1510322645", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322645","serverTimeStamp": "1510322653"}]
+10.11.2017 19:34:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:801.2726/-215.6651/215.6651
+10.11.2017 19:34:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:848.1759/-170.3623/170.3623
+10.11.2017 19:34:19; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05371", "longitude": "72.84657", "timeStamp": "1510322657", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322657","serverTimeStamp": "1510322659"}]
+10.11.2017 19:34:19; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05554", "longitude": "72.84444", "timeStamp": "1510322655", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322655","serverTimeStamp": "1510322659"}]
+10.11.2017 19:34:19; INFO; 0; 1 point sent of 1.Times for query/session/delete:716.5242/-284.1598/284.1598
+10.11.2017 19:34:19; INFO; 0; 1 point sent of 1.Times for query/session/delete:754.4802/-253.6085/253.6085
+10.11.2017 19:34:25; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05371", "longitude": "72.84657", "timeStamp": "1510322657", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322657","serverTimeStamp": "1510322665"}]
+10.11.2017 19:34:25; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05556", "longitude": "72.84486", "timeStamp": "1510322665", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322665","serverTimeStamp": "1510322665"}]
+10.11.2017 19:34:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:763.7867/-362.9883/362.9883
+10.11.2017 19:34:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:763.7867/-362.9883/362.9883
+10.11.2017 19:34:31; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05371", "longitude": "72.84657", "timeStamp": "1510322657", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322657","serverTimeStamp": "1510322671"}]
+10.11.2017 19:34:31; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05559", "longitude": "72.84516", "timeStamp": "1510322670", "speed": "6.11111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322670","serverTimeStamp": "1510322671"}]
+10.11.2017 19:34:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:537.5279/-184.683/184.683
+10.11.2017 19:34:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:590.4268/-237.5819/237.5819
+10.11.2017 19:34:37; INFO; 0; Running >> [{"deviceId": "358735070786834", "latitude": "19.05559", "longitude": "72.84516", "timeStamp": "1510322670", "speed": "6.11111", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6425", "isValid": "True", "packetTimeStamp": "1510322670","serverTimeStamp": "1510322677"}]
+10.11.2017 19:34:37; INFO; 0; Running >> [{"deviceId": "358735070786347", "latitude": "19.05371", "longitude": "72.84657", "timeStamp": "1510322657", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH01-LA-6598", "isValid": "True", "packetTimeStamp": "1510322657","serverTimeStamp": "1510322677"}]
+10.11.2017 19:34:37; INFO; 0; 1 point sent of 1.Times for query/session/delete:585.1169/-200.0229/200.0229
+10.11.2017 19:34:38; INFO; 0; 1 point sent of 1.Times for query/session/delete:1106.5259/-172.599/172.599

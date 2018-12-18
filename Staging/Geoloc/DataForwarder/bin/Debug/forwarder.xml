@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SQLHost>13.126.94.236</SQLHost>
+  <SQLDB>geoloc</SQLDB>
+  <SQLLogin>root</SQLLogin>
+  <SQLPassword>RucSne#aws</SQLPassword>
+  <AddDateToLog>true</AddDateToLog>
+  <Servers>
+    <ServerCfg>
+      <UID>1</UID>
+      <Type>HTTP/JSON</Type>
+      <URL>http://gpsfeed.zophop2013.appspot.com/mumbai/bus/tmt/gpsFeed/batch</URL>
+      <MaxPoints>1</MaxPoints>
+      <ThreadCount>8</ThreadCount>
+      <Timeout>10000</Timeout>
+      <EmailAddr>nisarg.desai@locanix.com</EmailAddr>
+      <EmailContent>Thane (TMT) URL is taking more time than 10 secs in sending response</EmailContent>
+      <MaxFailTimeBeforeEmail>120</MaxFailTimeBeforeEmail>
+    </ServerCfg>
+    <ServerCfg>
+      <UID>2</UID>
+      <Type>HTTP/JSON</Type>
+      <URL>http://gpsfeed.zophop2013.appspot.com/nagpur/bus/vnil/gpsFeed/batch</URL>
+      <MaxPoints>1</MaxPoints>
+      <ThreadCount>6</ThreadCount>
+      <Timeout>10000</Timeout>
+      <EmailAddr>nisarg.desai@locanix.com</EmailAddr>
+      <EmailContent>Nagpur (VNIL) URL is taking more time than 10 secs in sending response</EmailContent>
+      <MaxFailTimeBeforeEmail>120</MaxFailTimeBeforeEmail>
+    </ServerCfg>
+    <ServerCfg>
+      <UID>3</UID>
+      <Type>HTTP/JSON</Type>
+      <URL>http://gpsfeed.zophop2013.appspot.com/mumbai/bus/best/gpsFeed/batch</URL>
+      <MaxPoints>1</MaxPoints>
+      <ThreadCount>8</ThreadCount>
+      <Timeout>10000</Timeout>
+      <EmailAddr>nisarg.desai@locanix.com</EmailAddr>
+      <EmailContent>BEST URL is taking more time than 10 secs in sending response</EmailContent>
+      <MaxFailTimeBeforeEmail>120</MaxFailTimeBeforeEmail>
+    </ServerCfg>
+    <ServerCfg>
+      <UID>4</UID>
+      <Type>HTTP/JSON</Type>
+      <URL>http://gpsfeed.zophop2013.appspot.com/mumbai/bus/vvmt/gpsFeed/batch</URL>
+      <MaxPoints>1</MaxPoints>
+      <ThreadCount>6</ThreadCount>
+      <Timeout>10000</Timeout>
+      <EmailAddr>nisarg.desai@locanix.com</EmailAddr>
+      <EmailContent>Virar (VVMT) URL is taking more time than 10 secs in sending response</EmailContent>
+      <MaxFailTimeBeforeEmail>120</MaxFailTimeBeforeEmail>
+    </ServerCfg>
+    <ServerCfg>
+      <UID>5</UID>
+      <Type>HTTP/JSON</Type>
+      <URL>http://gpsfeed.zophop2013.appspot.com/indore/bus/aictsl/gpsFeed/batch</URL>
+      <MaxPoints>1</MaxPoints>
+      <ThreadCount>5</ThreadCount>
+      <Timeout>10000</Timeout>
+      <EmailAddr>nisarg.desai@locanix.com</EmailAddr>
+      <EmailContent>Indore URL is taking more time than 10 secs in sending response</EmailContent>
+      <MaxFailTimeBeforeEmail>120</MaxFailTimeBeforeEmail>
+    </ServerCfg>
+    <ServerCfg>
+      <UID>6</UID>
+      <Type>HTTP/JSON</Type>
+      <URL>http://itstmtu.thanecity.gov.in/api/GPSdata</URL>
+      <MaxPoints>1</MaxPoints>
+      <ThreadCount>8</ThreadCount>
+      <Timeout>10000</Timeout>
+      <EmailAddr>nisarg.desai@locanix.com</EmailAddr>
+      <EmailContent>Thane Server1 URL is taking more time than 10 secs in sending response</EmailContent>
+      <MaxFailTimeBeforeEmail>120</MaxFailTimeBeforeEmail>
+    </ServerCfg>
+    <ServerCfg>
+      <UID>7</UID>
+      <Type>HTTP/JSON</Type>
+      <URL>http://gpsfeed.zophop2013.appspot.com/atlanta</URL>
+      <MaxPoints>1</MaxPoints>
+      <ThreadCount>6</ThreadCount>
+      <Timeout>10000</Timeout>
+      <EmailAddr>nisarg.desai@locanix.com</EmailAddr>
+      <EmailContent>Atlanta Server URL is taking more time than 10 secs in sending response</EmailContent>
+      <MaxFailTimeBeforeEmail>120</MaxFailTimeBeforeEmail>
+    </ServerCfg>
+    <ServerCfg>
+      <UID>8</UID>
+      <Type>HTTP/JSON</Type>
+      <URL>http://gpsfeed.zophop2013.appspot.com/visiontrek</URL>
+      <MaxPoints>1</MaxPoints>
+      <ThreadCount>4</ThreadCount>
+      <Timeout>10000</Timeout>
+      <EmailAddr>nisarg.desai@locanix.com</EmailAddr>
+      <EmailContent>Visiontek Server URL is taking more time than 10 secs in sending response</EmailContent>
+      <MaxFailTimeBeforeEmail>120</MaxFailTimeBeforeEmail>
+    </ServerCfg>
+    <ServerCfg>
+      <UID>9</UID>
+      <Type>DIMTS</Type>
+      <URL>180.149.245.229:12050</URL>
+      <!-- <URL>144.76.184.178:12050</URL> -->
+      <MaxPoints>1</MaxPoints>
+      <ThreadCount>1</ThreadCount>
+      <Timeout>10000</Timeout>
+      <!-- <EmailAddr>nisarg.desai@locanix.com</EmailAddr> -->
+      <EmailContent>DIMTS Server URL is taking more time than 10 secs in sending response</EmailContent>
+      <MaxFailTimeBeforeEmail>120</MaxFailTimeBeforeEmail>
+    </ServerCfg>
+    <ServerCfg>
+      <UID>11</UID>
+      <Type>HTTP/JSON</Type>
+      <URL>http://gpsfeed.zophop2013.appspot.com/chandigarh/bus/ctu/gpsFeed/batch</URL>
+      <MaxPoints>1</MaxPoints>
+      <ThreadCount>5</ThreadCount>
+      <Timeout>10000</Timeout>
+      <EmailAddr>nisarg.desai@locanix.com</EmailAddr>
+      <EmailContent>Chandigarh Server URL is taking more time than 10 secs in sending response</EmailContent>
+      <MaxFailTimeBeforeEmail>120</MaxFailTimeBeforeEmail>
+    </ServerCfg>
+    <ServerCfg>
+      <UID>12</UID>
+      <Type>GpsGate</Type>
+      <URL>138.201.120.67:30175</URL>
+      <MaxPoints>1</MaxPoints>
+      <ThreadCount>5</ThreadCount>
+      <Timeout>2000</Timeout>
+      <EmailAddr>nisarg.desai@locanix.com</EmailAddr>
+      <EmailContent>GpsGate Server URL is taking more time than 10 secs in sending response</EmailContent>
+      <MaxFailTimeBeforeEmail>120</MaxFailTimeBeforeEmail>
+    </ServerCfg>
+  </Servers>
+  <ServerGroups>
+    <ServerGroupCfg>
+      <Name>thane</Name>
+      <Servers>1 6</Servers>
+    </ServerGroupCfg>
+    <ServerGroupCfg>
+      <Name>nagpur</Name>
+      <Servers>2</Servers>
+    </ServerGroupCfg>
+    <ServerGroupCfg>
+      <Name>best</Name>
+      <Servers>3</Servers>
+    </ServerGroupCfg>
+    <ServerGroupCfg>
+      <Name>virar</Name>
+      <Servers>4 12</Servers>
+    </ServerGroupCfg>
+    <ServerGroupCfg>
+      <Name>indore</Name>
+      <Servers>5 12</Servers>
+    </ServerGroupCfg>
+    <ServerGroupCfg>
+      <Name>chandigarh</Name>
+      <Servers>11 12</Servers>
+    </ServerGroupCfg>
+  </ServerGroups>
+  <Email>
+    <SMTPHost>mail.locanix.net</SMTPHost>
+    <SMTPPort>25</SMTPPort>
+    <SSL>false</SSL>
+    <User>alerts</User>
+    <Password>locanix22@456</Password>
+    <From>alerts@locanix.net</From>
+    <Title>Locanix Data Forwarder Alert</Title>
+  </Email>
+</Configuration>

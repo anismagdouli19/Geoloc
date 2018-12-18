@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SQLHost>localhost</SQLHost>
+  <SQLDB>geoloc</SQLDB>
+  <SQLLogin>geoloc</SQLLogin>
+  <SQLPassword>geolocpwd</SQLPassword>
+  <Navixy />
+  <GlobalSat />
+  <Navtech />
+  <GlobalSatTR600 />
+  <GlobalSatTR206 />
+  <Ruptella></Ruptella>
+  <Arnavi></Arnavi>
+  <Laipac></Laipac>
+  <IncotexTaho></IncotexTaho>
+  <Naviset />
+  <Elodiya></Elodiya>
+  <V500 />
+  <MiniTracker />
+  <IRZ_ST270 />
+  <M607 />
+  <Signal></Signal>
+  <Trezub5 />
+  <GPS968></GPS968>
+  <GosafeUDP />
+  <CTR />
+  <Sensatron></Sensatron>
+  <NavisetGT20></NavisetGT20>
+  <GPSMarker> </GPSMarker>
+  <GoodBug83></GoodBug83>
+  <AM120 />
+  <FleetCom></FleetCom>
+  <Queclink></Queclink>
+  <TT8850></TT8850>
+  <Concox></Concox>
+  <Dummy></Dummy>
+  <Galileo></Galileo>
+  <FleetCom>5200</FleetCom>
+
+  <Events>false</Events>
+  <GSMResolver>false</GSMResolver>
+  <AddDateToLog>false</AddDateToLog>
+
+  <Email>
+    <SMTPHost></SMTPHost>
+    <SMTPPort>25</SMTPPort>
+    <User />
+    <Password />
+    <From />
+    <Title>GPS Report</Title>
+  </Email>
+  <IP>192.168.0.3</IP>
+  <LicenseKey>5D57534C59333E293827393A353F203E26293C233A26272E2A372B2D24332E3103371B11EE13111ED91E0F1B5C7A686E6F464E1D5E72</LicenseKey>
+</Configuration>

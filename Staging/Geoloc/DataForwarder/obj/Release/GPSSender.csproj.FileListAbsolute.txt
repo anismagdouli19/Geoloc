@@ -1,0 +1,14 @@
+E:\GeoLoc\Tools\GPSSender\bin\Release\GPSSender.exe.config
+E:\GeoLoc\Tools\GPSSender\bin\Release\GPSSender.exe
+E:\GeoLoc\Tools\GPSSender\bin\Release\GPSSender.XmlSerializers.dll
+E:\GeoLoc\Tools\GPSSender\bin\Release\GPSSender.pdb
+E:\GeoLoc\Tools\GPSSender\bin\Release\objects.dll
+E:\GeoLoc\Tools\GPSSender\bin\Release\objects.pdb
+E:\GeoLoc\Tools\GPSSender\bin\Release\az\objects.resources.dll
+E:\GeoLoc\Tools\GPSSender\bin\Release\en\objects.resources.dll
+E:\GeoLoc\Tools\GPSSender\bin\Release\he\objects.resources.dll
+E:\GeoLoc\Tools\GPSSender\bin\Release\tr\objects.resources.dll
+E:\GeoLoc\Tools\GPSSender\obj\Release\ResolveAssemblyReference.cache
+E:\GeoLoc\Tools\GPSSender\obj\Release\GPSSender.exe
+E:\GeoLoc\Tools\GPSSender\obj\Release\GPSSender.pdb
+E:\GeoLoc\Tools\GPSSender\obj\Release\GPSSender.XmlSerializers.dll

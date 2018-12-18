@@ -1,0 +1,70 @@
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:29; INFO; 0; >> [{"deviceId": "351608081188521", "latitude": "19.19256", "longitude": "72.96285", "timeStamp": "1504353939", "speed": "7.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8116", "isValid": "True"}, {"deviceId": "351608081188521", "latitude": "19.19195", "longitude": "72.96295", "timeStamp": "1504353929", "speed": "6.38889", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8116", "isValid": "True"}, {"deviceId": "351608081188521", "latitude": "19.19135", "longitude": "72.96304", "timeStamp": "1504353919", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8116", "isValid": "True"}]
+02.09.2017 17:35:30; INFO; 0; >> [{"deviceId": "351608081205978", "latitude": "19.20117", "longitude": "72.96009", "timeStamp": "1504353934", "speed": "7.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8157", "isValid": "True"}, {"deviceId": "351608081205978", "latitude": "19.20091", "longitude": "72.96066", "timeStamp": "1504353924", "speed": "5.27778", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8157", "isValid": "True"}]
+02.09.2017 17:35:30; INFO; 0; >> [{"deviceId": "351608081197837", "latitude": "19.2025", "longitude": "72.95374", "timeStamp": "1504353944", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8210", "isValid": "True"}, {"deviceId": "351608081197837", "latitude": "19.20217", "longitude": "72.95368", "timeStamp": "1504353934", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8210", "isValid": "True"}]
+02.09.2017 17:35:31; INFO; 0; 3 point sent of 3.Times for query/session/delete:3665.4868/167.2784/1000.0815
+02.09.2017 17:35:31; INFO; 0; 2 point sent of 2.Times for query/session/delete:4007.2832/115.6059/800.8585
+02.09.2017 17:35:31; INFO; 0; >> [{"deviceId": "351608081203148", "latitude": "19.27117", "longitude": "72.96448", "timeStamp": "1504353944", "speed": "13.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8192", "isValid": "True"}, {"deviceId": "351608081203148", "latitude": "19.2721", "longitude": "72.96337", "timeStamp": "1504353934", "speed": "15.55556", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8192", "isValid": "True"}, {"deviceId": "351608081203148", "latitude": "19.27295", "longitude": "72.96227", "timeStamp": "1504353924", "speed": "13.88889", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8192", "isValid": "True"}]
+02.09.2017 17:35:31; INFO; 0; 2 point sent of 2.Times for query/session/delete:1587.0403/118.8069/807.4315
+02.09.2017 17:35:32; INFO; 0; >> [{"deviceId": "351608081195740", "latitude": "19.22231", "longitude": "72.98225", "timeStamp": "1504353931", "speed": "3.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8067", "isValid": "True"}, {"deviceId": "351608081195740", "latitude": "19.222", "longitude": "72.98237", "timeStamp": "1504353921", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8067", "isValid": "True"}]
+02.09.2017 17:35:32; INFO; 0; 3 point sent of 3.Times for query/session/delete:3483.219/99.8473/1571.5279
+02.09.2017 17:35:33; INFO; 0; 2 point sent of 2.Times for query/session/delete:4572.1047/100.3544/843.0816

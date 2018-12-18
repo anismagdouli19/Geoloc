@@ -1,0 +1,263 @@
+17.03.2016 21:35:06; WARNING; 0; Server Dummy started at 0.0.0.0:5200
+17.03.2016 22:37:13; INFO; 1; Установлено соединение с 82.114.224.142:54983
+17.03.2016 22:37:13; INFO; 1; << GET / HTTP/1.1
+Host: 217.23.71.154:5200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+17.03.2016 22:37:13; DEBUG; 1; >> GET / HTTP/1.1
+Host: 217.23.71.154:5200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+17.03.2016 22:37:17; INFO; 1; Разорвано соединение с 82.114.224.142:54983
+17.03.2016 22:58:06; INFO; 2; Установлено соединение с 82.114.224.142:55169
+17.03.2016 22:58:06; INFO; 2; << GET / HTTP/1.1
+Host: 217.23.71.154:5200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+17.03.2016 22:58:06; DEBUG; 2; >> GET / HTTP/1.1
+Host: 217.23.71.154:5200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+17.03.2016 23:05:26; INFO; 3; Установлено соединение с 107.178.3.134:64088
+17.03.2016 23:05:26; INFO; 4; Установлено соединение с 107.178.3.134:13254
+17.03.2016 23:05:27; INFO; 3; << GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:27; DEBUG; 3; >> GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:27; INFO; 3; Разорвано соединение с 107.178.3.134:64088
+17.03.2016 23:05:27; INFO; 4; << GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:27; DEBUG; 4; >> GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:27; INFO; 4; Разорвано соединение с 107.178.3.134:13254
+17.03.2016 23:05:28; INFO; 5; Установлено соединение с 107.178.3.134:6411
+17.03.2016 23:05:28; INFO; 5; << GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:28; DEBUG; 5; >> GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:28; INFO; 5; Разорвано соединение с 107.178.3.134:6411
+17.03.2016 23:05:28; INFO; 6; Установлено соединение с 107.178.3.134:40916
+17.03.2016 23:05:28; INFO; 6; << GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:28; DEBUG; 6; >> GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:28; INFO; 6; Разорвано соединение с 107.178.3.134:40916
+17.03.2016 23:05:34; INFO; 7; Установлено соединение с 107.178.3.134:56234
+17.03.2016 23:05:34; INFO; 7; << GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:34; DEBUG; 7; >> GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:34; INFO; 7; Разорвано соединение с 107.178.3.134:56234
+17.03.2016 23:05:35; INFO; 8; Установлено соединение с 107.178.3.134:51868
+17.03.2016 23:05:35; INFO; 8; << GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:35; DEBUG; 8; >> GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:35; INFO; 8; Разорвано соединение с 107.178.3.134:51868
+17.03.2016 23:05:57; INFO; 9; Установлено соединение с 107.178.3.134:61634
+17.03.2016 23:05:57; INFO; 9; << GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:57; DEBUG; 9; >> GET / HTTP/1.1
+Host: 217.23.71.154:5200
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.8
+
+
+17.03.2016 23:05:57; INFO; 10; Установлено соединение с 107.178.3.134:26384
+17.03.2016 23:05:57; INFO; 9; Разорвано соединение с 107.178.3.134:61634
+17.03.2016 23:06:39; WARNING; 0; Server Dummy started at 0.0.0.0:5200
+17.03.2016 23:06:41; INFO; 1; Установлено соединение с 82.114.224.142:55198
+17.03.2016 23:06:41; INFO; 1; << GET /favicon.ico HTTP/1.1
+Host: 217.23.71.154:5200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+17.03.2016 23:06:41; DEBUG; 1; >> GET /favicon.ico HTTP/1.1
+Host: 217.23.71.154:5200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+17.03.2016 23:06:41; INFO; 2; Установлено соединение с 82.114.224.142:55203
+17.03.2016 23:06:41; INFO; 2; << GET /favicon.ico HTTP/1.1
+Host: 217.23.71.154:5200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+17.03.2016 23:06:41; DEBUG; 2; >> GET /favicon.ico HTTP/1.1
+Host: 217.23.71.154:5200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+17.03.2016 23:17:10; INFO; 1; Разорвано соединение с 82.114.224.142:55198
+17.03.2016 23:17:10; INFO; 2; Разорвано соединение с 82.114.224.142:55203
+18.03.2016 06:23:11; INFO; 3; Установлено соединение с 82.114.224.142:56316
+18.03.2016 06:23:11; INFO; 3; << GET / HTTP/1.1
+Host: 217.23.71.154:5200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+18.03.2016 06:23:11; DEBUG; 3; >> GET / HTTP/1.1
+Host: 217.23.71.154:5200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+

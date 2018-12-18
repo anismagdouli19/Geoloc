@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SQLHost>13.126.94.236</SQLHost>
+  <SQLDB>geoloc</SQLDB>
+  <SQLLogin>root</SQLLogin>
+  <SQLPassword>RucSne#aws</SQLPassword>
+  <AddDateToLog>true</AddDateToLog>
+  <Servers>
+    <ServerCfg>
+      <UID>9</UID>
+      <Type>HTTP/JSON</Type>
+      <URL>http://gpsfeed.zophop2013.appspot.com/indore/bus/aictsl/gpsFeed/batch</URL>
+      <MaxPoints>1</MaxPoints>
+      <ThreadCount>1</ThreadCount>
+      <Timeout>2000</Timeout>
+      <EmailAddr>nisarg.desai@locanix.com</EmailAddr>
+      <AlarmEmailAddr></AlarmEmailAddr>
+      <EmailContent>Forwarder troubles</EmailContent>
+      <MaxFailTimeBeforeEmail>60</MaxFailTimeBeforeEmail>
+    </ServerCfg>
+  </Servers>
+  <ServerGroups>    
+    <ServerGroupCfg>
+      <Name>indore</Name>
+      <Servers>9</Servers>
+    </ServerGroupCfg>
+  </ServerGroups>
+  <Email>
+    <SMTPHost></SMTPHost>
+    <SMTPPort1>25</SMTPPort1>
+    <SSL>false</SSL>
+    <User>alerts</User>
+    <Password>locanix22@456</Password>
+    <From>alerts@locanix.net</From>
+    <Title>Alert Report</Title>
+  </Email>
+</Configuration>

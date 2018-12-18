@@ -1,0 +1,6 @@
+13.07.2017 18:12:31; WARNING; 0; Client started
+13.07.2017 18:12:31; WARNING; 0; HTTP/JSON client started
+13.07.2017 18:13:16; INFO; 0; >> [{"deviceId": "861693035354588", "latitude": "19.20002", "longitude": "72.94486", "timeStamp": "1499949787", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8095", "isValid": "True"}]
+13.07.2017 18:13:17; INFO; 0; 1 point sent of 1.Times for query/session/delete:218.3704/365.5034/671.7732
+13.07.2017 18:14:09; INFO; 0; >> [{"deviceId": "861693035354588", "latitude": "19.20002", "longitude": "72.94486", "timeStamp": "1499949847", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH04-G-8095", "isValid": "True"}]
+13.07.2017 18:14:10; INFO; 0; 1 point sent of 1.Times for query/session/delete:168.9911/362.7538/727.4424

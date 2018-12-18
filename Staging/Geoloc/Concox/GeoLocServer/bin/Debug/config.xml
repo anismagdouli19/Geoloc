@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SQLHost>localhost</SQLHost>
+  <SQLDB>geoloc</SQLDB>
+  <SQLLogin>root</SQLLogin>
+  <SQLPassword>123456</SQLPassword>
+  <FleetCom></FleetCom>
+  <HTTP></HTTP>
+  <Dummy></Dummy>
+  <CalAmp>5200</CalAmp>
+  <AddDateToLog>true</AddDateToLog>   
+  <IP>127.0.0.1</IP>
+  <LicenseKey>565A465846495F5C4339243B223D3E21203F223D242538273629342B2C332E31F80C1213081D0916E61E18145D6D6A6E6E405803EC83</LicenseKey>
+</Configuration>

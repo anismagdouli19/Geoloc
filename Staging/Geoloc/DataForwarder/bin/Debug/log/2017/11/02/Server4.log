@@ -1,0 +1,100 @@
+02.11.2017 11:49:29; WARNING; 0; Client started
+02.11.2017 11:49:29; WARNING; 0; HTTP/JSON client started
+02.11.2017 11:49:29; WARNING; 0; Client started
+02.11.2017 11:49:29; WARNING; 0; HTTP/JSON client started
+02.11.2017 11:49:29; WARNING; 0; Client started
+02.11.2017 11:49:29; WARNING; 0; HTTP/JSON client started
+02.11.2017 11:49:29; WARNING; 0; Client started
+02.11.2017 11:49:29; WARNING; 0; HTTP/JSON client started
+02.11.2017 11:49:29; WARNING; 0; Client started
+02.11.2017 11:49:29; WARNING; 0; HTTP/JSON client started
+02.11.2017 11:49:29; WARNING; 0; Client started
+02.11.2017 11:49:29; WARNING; 0; HTTP/JSON client started
+02.11.2017 11:49:29; WARNING; 0; Client started
+02.11.2017 11:49:29; WARNING; 0; HTTP/JSON client started
+02.11.2017 11:49:29; WARNING; 0; Client started
+02.11.2017 11:49:29; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:02:06; WARNING; 0; Client started
+02.11.2017 12:02:06; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:02:06; WARNING; 0; Client started
+02.11.2017 12:02:06; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:02:06; WARNING; 0; Client started
+02.11.2017 12:02:06; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:02:06; WARNING; 0; Client started
+02.11.2017 12:02:06; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:02:06; WARNING; 0; Client started
+02.11.2017 12:02:06; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:02:06; WARNING; 0; Client started
+02.11.2017 12:02:06; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:02:06; WARNING; 0; Client started
+02.11.2017 12:02:06; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:02:06; WARNING; 0; Client started
+02.11.2017 12:02:06; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:42:30; WARNING; 0; Client started
+02.11.2017 12:42:30; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:42:30; WARNING; 0; Client started
+02.11.2017 12:42:30; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:42:30; WARNING; 0; Client started
+02.11.2017 12:42:30; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:42:30; WARNING; 0; Client started
+02.11.2017 12:42:30; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:42:30; WARNING; 0; Client started
+02.11.2017 12:42:30; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:42:30; WARNING; 0; Client started
+02.11.2017 12:42:30; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:42:30; WARNING; 0; Client started
+02.11.2017 12:42:30; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:42:30; WARNING; 0; Client started
+02.11.2017 12:42:30; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:49:59; WARNING; 0; Client started
+02.11.2017 12:49:59; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:49:59; WARNING; 0; Client started
+02.11.2017 12:49:59; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:49:59; WARNING; 0; Client started
+02.11.2017 12:49:59; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:49:59; WARNING; 0; Client started
+02.11.2017 12:49:59; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:49:59; WARNING; 0; Client started
+02.11.2017 12:49:59; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:49:59; WARNING; 0; Client started
+02.11.2017 12:49:59; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:49:59; WARNING; 0; Client started
+02.11.2017 12:49:59; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:49:59; WARNING; 0; Client started
+02.11.2017 12:49:59; WARNING; 0; HTTP/JSON client started
+02.11.2017 13:13:15; WARNING; 0; Client started
+02.11.2017 13:13:15; WARNING; 0; HTTP/JSON client started
+02.11.2017 13:13:15; WARNING; 0; Client started
+02.11.2017 13:13:15; WARNING; 0; HTTP/JSON client started
+02.11.2017 13:13:15; WARNING; 0; Client started
+02.11.2017 13:13:15; WARNING; 0; HTTP/JSON client started
+02.11.2017 13:13:15; WARNING; 0; Client started
+02.11.2017 13:13:15; WARNING; 0; HTTP/JSON client started
+02.11.2017 13:13:15; WARNING; 0; Client started
+02.11.2017 13:13:15; WARNING; 0; HTTP/JSON client started
+02.11.2017 13:13:15; WARNING; 0; Client started
+02.11.2017 13:13:15; WARNING; 0; HTTP/JSON client started
+02.11.2017 13:13:15; WARNING; 0; Client started
+02.11.2017 13:13:15; WARNING; 0; HTTP/JSON client started
+02.11.2017 13:13:15; WARNING; 0; Client started
+02.11.2017 13:13:15; WARNING; 0; HTTP/JSON client started
+02.11.2017 13:13:19; INFO; 0; Running >> [{"deviceId": "351608080808756", "latitude": "19.33673", "longitude": "72.89362", "timeStamp": "1509608512", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509608599"}]
+02.11.2017 13:13:19; INFO; 0; Standing >> [{"deviceId": "358735070195937", "latitude": "19.41759", "longitude": "72.82069", "timeStamp": "1509608599", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509607121"}]
+02.11.2017 13:13:56; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800084.2727/-19763349.9911/184.9334
+02.11.2017 13:13:56; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800084.2727/-19763349.9911/184.9334
+02.11.2017 13:13:56; INFO; 0; Standing >> [{"deviceId": "358735070195937", "latitude": "19.41759", "longitude": "72.82069", "timeStamp": "1509608637", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509607121"}]
+02.11.2017 13:13:56; INFO; 0; Running >> [{"deviceId": "351608080808756", "latitude": "19.33673", "longitude": "72.89362", "timeStamp": "1509608512", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509608637"}]
+02.11.2017 13:13:57; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800084.4848/-19799267.1192/84.3316
+02.11.2017 13:13:57; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800062.5216/-19799260.9173/84.1558
+02.11.2017 13:14:02; INFO; 0; Standing >> [{"deviceId": "358735070195937", "latitude": "19.41759", "longitude": "72.82069", "timeStamp": "1509608642", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509607121"}]
+02.11.2017 13:14:02; INFO; 0; Running >> [{"deviceId": "351608080808756", "latitude": "19.33673", "longitude": "72.89362", "timeStamp": "1509608512", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509608642"}]
+02.11.2017 13:14:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800062.5018/-19799275.5387/80.2284
+02.11.2017 13:14:03; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800062.6322/-19799258.0101/96.2702
+02.11.2017 13:14:08; INFO; 0; Standing >> [{"deviceId": "358735070195937", "latitude": "19.41759", "longitude": "72.82069", "timeStamp": "1509608648", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509607121"}]
+02.11.2017 13:14:08; INFO; 0; Running >> [{"deviceId": "351608080808756", "latitude": "19.33673", "longitude": "72.89362", "timeStamp": "1509608512", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509608648"}]
+02.11.2017 13:14:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800053.1347/-19799230.868/78.1526
+02.11.2017 13:14:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800069.0391/-19799299.859/84.4001
+02.11.2017 13:14:14; INFO; 0; Standing >> [{"deviceId": "358735070195937", "latitude": "19.41759", "longitude": "72.82069", "timeStamp": "1509608654", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509607121"}]
+02.11.2017 13:14:14; INFO; 0; Running >> [{"deviceId": "351608080808756", "latitude": "19.33673", "longitude": "72.89362", "timeStamp": "1509608512", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509608654"}]
+02.11.2017 13:14:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800062.4995/-19799295.438/99.8509
+02.11.2017 13:14:15; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800062.4995/-19799155.24/84.4511

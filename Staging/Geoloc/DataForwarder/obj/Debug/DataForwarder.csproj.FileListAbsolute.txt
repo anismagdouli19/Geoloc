@@ -1,0 +1,38 @@
+E:\GeoLoc\Tools\DataForwarder\obj\Debug\DataForwarder.csprojResolveAssemblyReference.cache
+E:\GeoLoc\Tools\DataForwarder\bin\Debug\GPSSender.exe.config
+E:\GeoLoc\Tools\DataForwarder\bin\Debug\GPSSender.exe
+E:\GeoLoc\Tools\DataForwarder\bin\Debug\GPSSender.pdb
+E:\GeoLoc\Tools\DataForwarder\bin\Debug\objects.dll
+E:\GeoLoc\Tools\DataForwarder\bin\Debug\objects.pdb
+E:\GeoLoc\Tools\DataForwarder\bin\Debug\az\objects.resources.dll
+E:\GeoLoc\Tools\DataForwarder\bin\Debug\en\objects.resources.dll
+E:\GeoLoc\Tools\DataForwarder\bin\Debug\he\objects.resources.dll
+E:\GeoLoc\Tools\DataForwarder\bin\Debug\pt\objects.resources.dll
+E:\GeoLoc\Tools\DataForwarder\bin\Debug\tr\objects.resources.dll
+E:\GeoLoc\Tools\DataForwarder\obj\Debug\GPSSender.exe
+E:\GeoLoc\Tools\DataForwarder\obj\Debug\GPSSender.pdb
+C:\Users\AntonAD\Desktop\Concox, India Ruchit Surati\Concox\DataForwarder\obj\Debug\DataForwarder.csprojResolveAssemblyReference.cache
+C:\Users\AntonAD\Desktop\Concox, India Ruchit Surati\Concox\DataForwarder\obj\Debug\GPSSender.exe
+C:\Users\AntonAD\Desktop\Concox, India Ruchit Surati\Concox\DataForwarder\obj\Debug\GPSSender.pdb
+C:\Users\AntonAD\Desktop\Concox, India Ruchit Surati\Concox\DataForwarder\bin\Debug\GPSSender.exe.config
+C:\Users\AntonAD\Desktop\Concox, India Ruchit Surati\Concox\DataForwarder\bin\Debug\GPSSender.exe
+C:\Users\AntonAD\Desktop\Concox, India Ruchit Surati\Concox\DataForwarder\bin\Debug\GPSSender.pdb
+C:\Users\AntonAD\Desktop\Concox, India Ruchit Surati\Concox\DataForwarder\bin\Debug\objects.dll
+C:\Users\AntonAD\Desktop\Concox, India Ruchit Surati\Concox\DataForwarder\bin\Debug\objects.pdb
+E:\Concox, India Ruchit Surati\Concox\DataForwarder\bin\Debug\GPSSender.exe.config
+E:\Concox, India Ruchit Surati\Concox\DataForwarder\bin\Debug\GPSSender.exe
+E:\Concox, India Ruchit Surati\Concox\DataForwarder\bin\Debug\GPSSender.pdb
+E:\Concox, India Ruchit Surati\Concox\DataForwarder\bin\Debug\MySql.Data.dll
+E:\Concox, India Ruchit Surati\Concox\DataForwarder\bin\Debug\objects.dll
+E:\Concox, India Ruchit Surati\Concox\DataForwarder\obj\Debug\DataForwarder.csprojResolveAssemblyReference.cache
+E:\Concox, India Ruchit Surati\Concox\DataForwarder\obj\Debug\GPSSender.exe
+E:\Concox, India Ruchit Surati\Concox\DataForwarder\obj\Debug\GPSSender.pdb
+E:\Concox\DataForwarder\bin\Debug\GPSSender.exe.config
+E:\Concox\DataForwarder\bin\Debug\GPSSender.exe
+E:\Concox\DataForwarder\bin\Debug\GPSSender.pdb
+E:\Concox\DataForwarder\bin\Debug\MySql.Data.dll
+E:\Concox\DataForwarder\bin\Debug\objects.dll
+E:\Concox\DataForwarder\obj\Debug\GPSSender.exe
+E:\Concox\DataForwarder\obj\Debug\GPSSender.pdb
+E:\Concox\DataForwarder\bin\Debug\objects.pdb
+E:\Concox\DataForwarder\obj\Debug\DataForwarder.csprojResolveAssemblyReference.cache

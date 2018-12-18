@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SQLHost>13.126.94.236</SQLHost>
+  <SQLDB>geoloc</SQLDB>
+  <SQLLogin>root</SQLLogin>
+  <SQLPassword>RucSne#aws</SQLPassword>
+  <FleetCom></FleetCom>
+  <HTTP></HTTP>
+  <Dummy></Dummy>
+  <CalAmp>5200</CalAmp>
+  <AddDateToLog>true</AddDateToLog>   
+  <IP>0.0.0.0</IP>
+</Configuration>

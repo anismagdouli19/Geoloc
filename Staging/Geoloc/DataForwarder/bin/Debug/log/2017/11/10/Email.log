@@ -1,0 +1,185 @@
+10.11.2017 12:30:43; INFO; 0; Message added: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:31:06; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:31:06; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 12:31:32; INFO; 0; Message added: nisarg.desai@locanix.com->1386 Is Sending Future Time Stamp Data
+10.11.2017 12:31:36; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:31:36; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 12:31:43; INFO; 0; Message added: nisarg.desai@locanix.com->1409 Is Sending Future Time Stamp Data
+10.11.2017 12:31:59; INFO; 0; Message added: nisarg.desai@locanix.com->1482 Is Sending Future Time Stamp Data
+10.11.2017 12:32:03; INFO; 0; Message added: nisarg.desai@locanix.com->2447 Is Sending Future Time Stamp Data
+10.11.2017 12:32:06; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:32:06; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 12:32:36; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:32:36; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 12:33:06; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:33:06; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 12:33:36; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:33:36; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 12:33:42; INFO; 0; Message added: nisarg.desai@locanix.com->2447 Is Sending Future Time Stamp Data
+10.11.2017 12:34:06; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:34:06; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 12:34:36; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:34:36; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 12:35:06; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:35:06; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 12:35:15; INFO; 0; Message added: nisarg.desai@locanix.com->1482 Is Sending Future Time Stamp Data
+10.11.2017 12:35:36; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:35:36; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 12:36:06; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:36:06; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 12:36:23; INFO; 0; Message added: nisarg.desai@locanix.com->1419 Is Sending Future Time Stamp Data
+10.11.2017 12:36:33; INFO; 0; Message added: nisarg.desai@locanix.com->2447 Is Sending Future Time Stamp Data
+10.11.2017 12:36:36; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:36:36; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 12:37:06; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:37:06; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 12:37:21; INFO; 0; Message added: nisarg.desai@locanix.com->1450 Is Sending Future Time Stamp Data
+10.11.2017 12:37:25; INFO; 0; Message added: nisarg.desai@locanix.com->1482 Is Sending Future Time Stamp Data
+10.11.2017 12:37:27; INFO; 0; Message added: nisarg.desai@locanix.com->2447 Is Sending Future Time Stamp Data
+10.11.2017 12:37:36; INFO; 0; Sending message: nisarg.desai@locanix.com->1241 Is Sending Future Time Stamp Data
+10.11.2017 12:37:36; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail)
+10.11.2017 17:14:23; INFO; 0; Message added: nisarg.desai@locanix.com->17 Is Sending Future Time Stamp Data
+10.11.2017 17:14:23; INFO; 0; Message added: nisarg.desai@locanix.com->33 Is Sending Future Time Stamp Data
+10.11.2017 17:14:37; INFO; 0; Sending message: nisarg.desai@locanix.com->17 Is Sending Future Time Stamp Data
+10.11.2017 17:14:48; INFO; 0; Message added: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 17:14:48; INFO; 0; Message added: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 17:14:53; INFO; 0; Message added: nisarg.desai@locanix.com->17 Is Sending Future Time Stamp Data
+10.11.2017 17:14:53; INFO; 0; Message added: nisarg.desai@locanix.com->33 Is Sending Future Time Stamp Data
+10.11.2017 17:15:07; INFO; 0; Sending message: nisarg.desai@locanix.com->33 Is Sending Future Time Stamp Data
+10.11.2017 17:15:13; INFO; 0; Message added: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 17:15:36; INFO; 0; Sending message: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 17:15:36; INFO; 0; Message added: nisarg.desai@locanix.com->18 Is Sending Future Time Stamp Data
+10.11.2017 17:15:38; INFO; 0; Message added: nisarg.desai@locanix.com->33 Is Sending Future Time Stamp Data
+10.11.2017 17:15:48; INFO; 0; Message added: nisarg.desai@locanix.com->17 Is Sending Future Time Stamp Data
+10.11.2017 17:16:06; INFO; 0; Message added: nisarg.desai@locanix.com->18 Is Sending Future Time Stamp Data
+10.11.2017 17:16:06; INFO; 0; Sending message: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 17:16:14; INFO; 0; Message added: nisarg.desai@locanix.com->30 Is Sending Future Time Stamp Data
+10.11.2017 17:16:14; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 17:16:18; INFO; 0; Message added: nisarg.desai@locanix.com->33 Is Sending Future Time Stamp Data
+10.11.2017 17:16:18; INFO; 0; Message added: nisarg.desai@locanix.com->17 Is Sending Future Time Stamp Data
+10.11.2017 17:16:30; INFO; 0; Message added: nisarg.desai@locanix.com->18 Is Sending Future Time Stamp Data
+10.11.2017 17:16:36; INFO; 0; Message added: nisarg.desai@locanix.com->18 Is Sending Future Time Stamp Data
+10.11.2017 17:16:36; INFO; 0; Sending message: nisarg.desai@locanix.com->17 Is Sending Future Time Stamp Data
+10.11.2017 17:16:38; INFO; 0; Message added: nisarg.desai@locanix.com->33 Is Sending Future Time Stamp Data
+10.11.2017 17:16:48; INFO; 0; Message added: nisarg.desai@locanix.com->17 Is Sending Future Time Stamp Data
+10.11.2017 17:16:48; INFO; 0; Message added: nisarg.desai@locanix.com->33 Is Sending Future Time Stamp Data
+10.11.2017 17:17:00; INFO; 0; Message added: nisarg.desai@locanix.com->18 Is Sending Future Time Stamp Data
+10.11.2017 17:17:06; INFO; 0; Message added: nisarg.desai@locanix.com->17 Is Sending Future Time Stamp Data
+10.11.2017 17:17:06; INFO; 0; Sending message: nisarg.desai@locanix.com->33 Is Sending Future Time Stamp Data
+10.11.2017 17:17:08; INFO; 0; Message added: nisarg.desai@locanix.com->33 Is Sending Future Time Stamp Data
+10.11.2017 17:18:31; INFO; 0; Message added: nisarg.desai@locanix.com->18 Is Sending Future Time Stamp Data
+10.11.2017 17:18:32; INFO; 0; Message added: nisarg.desai@locanix.com->31 Is Sending Future Time Stamp Data
+10.11.2017 17:18:51; INFO; 0; Message added: nisarg.desai@locanix.com->18 Is Sending Future Time Stamp Data
+10.11.2017 17:18:54; INFO; 0; Sending message: nisarg.desai@locanix.com->18 Is Sending Future Time Stamp Data
+10.11.2017 17:20:27; INFO; 0; Message added: nisarg.desai@locanix.com->Chandigarh Server URL is taking more time than 10 secs in sending response
+10.11.2017 17:20:27; INFO; 0; Message added: nisarg.desai@locanix.com->31 Is Sending Future Time Stamp Data
+10.11.2017 17:20:27; INFO; 0; Sending message: nisarg.desai@locanix.com->31 Is Sending Future Time Stamp Data
+10.11.2017 19:13:20; INFO; 0; Message added: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 19:13:20; INFO; 0; Message added: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 19:14:02; INFO; 0; Message added: nisarg.desai@locanix.com->31 Is Sending Future Time Stamp Data
+10.11.2017 19:14:24; INFO; 0; Sending message: nisarg.desai@locanix.com->31 Is Sending Future Time Stamp Data
+10.11.2017 19:14:31; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:14:31; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:21:14; INFO; 0; Message added: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 19:21:14; INFO; 0; Message added: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 19:25:18; INFO; 0; Message added: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 19:25:41; INFO; 0; Sending message: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 19:25:48; INFO; 0; Message added: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 19:26:06; INFO; 0; Message added: nisarg.desai@locanix.com->22 Is Sending Future Time Stamp Data
+10.11.2017 19:26:11; INFO; 0; Sending message: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 19:26:32; INFO; 0; Message added: nisarg.desai@locanix.com->18 Is Sending Future Time Stamp Data
+10.11.2017 19:26:36; INFO; 0; Message added: nisarg.desai@locanix.com->22 Is Sending Future Time Stamp Data
+10.11.2017 19:26:41; INFO; 0; Sending message: nisarg.desai@locanix.com->22 Is Sending Future Time Stamp Data
+10.11.2017 19:27:11; INFO; 0; Sending message: nisarg.desai@locanix.com->18 Is Sending Future Time Stamp Data
+10.11.2017 19:27:19; INFO; 0; Message added: nisarg.desai@locanix.com->Virar (VVMT) URL is taking more time than 10 secs in sending response
+10.11.2017 19:27:41; INFO; 0; Sending message: nisarg.desai@locanix.com->22 Is Sending Future Time Stamp Data
+10.11.2017 19:27:55; INFO; 0; Message added: nisarg.desai@locanix.com->31 Is Sending Future Time Stamp Data
+10.11.2017 19:27:55; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:27:55; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:28:05; INFO; 0; Message added: nisarg.desai@locanix.com->23 Is Sending Future Time Stamp Data
+10.11.2017 19:28:05; INFO; 0; Message added: nisarg.desai@locanix.com->31 Is Sending Future Time Stamp Data
+10.11.2017 19:28:11; INFO; 0; Sending message: nisarg.desai@locanix.com->Virar (VVMT) URL is taking more time than 10 secs in sending response
+10.11.2017 19:28:19; INFO; 0; Message added: nisarg.desai@locanix.com->14 Is Sending Future Time Stamp Data
+10.11.2017 19:28:31; INFO; 0; Message added: nisarg.desai@locanix.com->21 Is Sending Future Time Stamp Data
+10.11.2017 19:28:35; INFO; 0; Message added: nisarg.desai@locanix.com->23 Is Sending Future Time Stamp Data
+10.11.2017 19:28:41; INFO; 0; Message added: nisarg.desai@locanix.com->22 Is Sending Future Time Stamp Data
+10.11.2017 19:28:41; INFO; 0; Sending message: nisarg.desai@locanix.com->31 Is Sending Future Time Stamp Data
+10.11.2017 19:28:49; INFO; 0; Message added: nisarg.desai@locanix.com->15 Is Sending Future Time Stamp Data
+10.11.2017 19:28:49; INFO; 0; Message added: nisarg.desai@locanix.com->14 Is Sending Future Time Stamp Data
+10.11.2017 19:29:02; INFO; 0; Message added: nisarg.desai@locanix.com->18 Is Sending Future Time Stamp Data
+10.11.2017 19:29:06; INFO; 0; Message added: nisarg.desai@locanix.com->22 Is Sending Future Time Stamp Data
+10.11.2017 19:29:11; INFO; 0; Sending message: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:29:12; INFO; 0; Message added: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 19:29:26; INFO; 0; Message added: nisarg.desai@locanix.com->18 Is Sending Future Time Stamp Data
+10.11.2017 19:29:32; INFO; 0; Message added: nisarg.desai@locanix.com->18 Is Sending Future Time Stamp Data
+10.11.2017 19:29:36; INFO; 0; Message added: nisarg.desai@locanix.com->22 Is Sending Future Time Stamp Data
+10.11.2017 19:29:41; INFO; 0; Sending message: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:29:42; INFO; 0; Message added: nisarg.desai@locanix.com->32 Is Sending Future Time Stamp Data
+10.11.2017 19:30:02; INFO; 0; Message added: nisarg.desai@locanix.com->32 Is Sending Future Time Stamp Data
+10.11.2017 19:30:11; INFO; 0; Message added: nisarg.desai@locanix.com->22 Is Sending Future Time Stamp Data
+10.11.2017 19:30:11; INFO; 0; Sending message: nisarg.desai@locanix.com->23 Is Sending Future Time Stamp Data
+10.11.2017 19:30:25; INFO; 0; Message added: nisarg.desai@locanix.com->30 Is Sending Future Time Stamp Data
+10.11.2017 19:30:37; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:30:37; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:30:41; INFO; 0; Sending message: nisarg.desai@locanix.com->31 Is Sending Future Time Stamp Data
+10.11.2017 19:31:07; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:31:07; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:31:11; INFO; 0; Sending message: nisarg.desai@locanix.com->14 Is Sending Future Time Stamp Data
+10.11.2017 19:31:35; INFO; 0; Message added: nisarg.desai@locanix.com->30 Is Sending Future Time Stamp Data
+10.11.2017 19:31:35; INFO; 0; Message added: nisarg.desai@locanix.com->31 Is Sending Future Time Stamp Data
+10.11.2017 19:31:37; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:31:37; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:31:41; INFO; 0; Message added: nisarg.desai@locanix.com->22 Is Sending Future Time Stamp Data
+10.11.2017 19:31:41; INFO; 0; Sending message: nisarg.desai@locanix.com->21 Is Sending Future Time Stamp Data
+10.11.2017 19:31:57; INFO; 0; Message added: nisarg.desai@locanix.com->32 Is Sending Future Time Stamp Data
+10.11.2017 19:32:07; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:32:07; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:32:11; INFO; 0; Sending message: nisarg.desai@locanix.com->23 Is Sending Future Time Stamp Data
+10.11.2017 19:32:18; INFO; 0; Message added: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 19:32:18; INFO; 0; Message added: nisarg.desai@locanix.com->25 Is Sending Future Time Stamp Data
+10.11.2017 19:34:05; INFO; 0; Message added: nisarg.desai@locanix.com->23 Is Sending Future Time Stamp Data
+10.11.2017 19:34:05; INFO; 0; Message added: nisarg.desai@locanix.com->23 Is Sending Future Time Stamp Data
+10.11.2017 19:34:07; INFO; 0; Message added: nisarg.desai@locanix.com->29 Is Sending Future Time Stamp Data
+10.11.2017 19:34:34; INFO; 0; Sending message: nisarg.desai@locanix.com->23 Is Sending Future Time Stamp Data

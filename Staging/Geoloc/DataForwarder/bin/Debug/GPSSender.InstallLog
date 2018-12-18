@@ -1,0 +1,32 @@
+﻿Uninstalling assembly 'E:\Concox\DataForwarder\bin\debug\GPSSender.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Concox\DataForwarder\bin\debug\GPSSender.InstallLog
+   assemblypath = E:\Concox\DataForwarder\bin\debug\GPSSender.exe
+Removing EventLog source DataForwarder.
+Warning: The source DataForwarder is not registered on the local machine.
+Service DataForwarder is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\Concox\DataForwarder\bin\debug\GPSSender.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Concox\DataForwarder\bin\debug\GPSSender.InstallLog
+   assemblypath = E:\Concox\DataForwarder\bin\debug\GPSSender.exe
+Installing service DataForwarder...
+Service DataForwarder has been successfully installed.
+Creating EventLog source DataForwarder in log Application...
+Committing assembly 'E:\Concox\DataForwarder\bin\debug\GPSSender.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Concox\DataForwarder\bin\debug\GPSSender.InstallLog
+   assemblypath = E:\Concox\DataForwarder\bin\debug\GPSSender.exe
+Uninstalling assembly 'E:\Concox\DataForwarder\bin\debug\GPSSender.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Concox\DataForwarder\bin\debug\GPSSender.InstallLog
+   assemblypath = E:\Concox\DataForwarder\bin\debug\GPSSender.exe
+Removing EventLog source DataForwarder.
+Service DataForwarder is being removed from the system...
+Service DataForwarder was successfully removed from the system.

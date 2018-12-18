@@ -1,0 +1,7 @@
+E:\Projects\GeoLoc\Concox\objects\bin\Debug\objects.dll.config
+E:\Projects\GeoLoc\Concox\objects\bin\Debug\objects.dll
+E:\Projects\GeoLoc\Concox\objects\bin\Debug\objects.pdb
+E:\Projects\GeoLoc\Concox\objects\bin\Debug\MySql.Data.dll
+E:\Projects\GeoLoc\Concox\objects\obj\Debug\objects.dll
+E:\Projects\GeoLoc\Concox\objects\obj\Debug\objects.pdb
+E:\Projects\GeoLoc\Concox\objects\obj\Debug\objects.csprojResolveAssemblyReference.cache

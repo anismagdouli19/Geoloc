@@ -1,0 +1,70 @@
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:26; INFO; 0; Running >> [{"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693687"}]
+03.11.2017 12:51:26; INFO; 0; Running >> [{"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693687"}]
+03.11.2017 12:51:29; INFO; 0; 10 point sent of 10.Times for query/session/delete:2895.8893/-1190.0983/1190.0983
+03.11.2017 12:51:29; INFO; 0; 10 point sent of 10.Times for query/session/delete:3027.4632/-1174.0122/1174.0122
+03.11.2017 12:51:32; INFO; 0; Running >> [{"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070195937", "latitude": "19.41902", "longitude": "72.8209", "timeStamp": "1509692274", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "MH48-C-220", "isValid": "True", "packetTimeStamp": "1509693692"}]
+03.11.2017 12:51:32; INFO; 0; Running >> [{"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "351608080808756", "latitude": "19.21871", "longitude": "72.97791", "timeStamp": "1509693597", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "MH04-HY-5569", "isValid": "True", "packetTimeStamp": "1509693692"}]

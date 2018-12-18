@@ -1,0 +1,36 @@
+02.11.2017 11:49:29; WARNING; 0; Client started
+02.11.2017 11:49:29; WARNING; 0; HTTP/JSON client started
+02.11.2017 11:49:29; WARNING; 0; Client started
+02.11.2017 11:49:29; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:02:06; WARNING; 0; Client started
+02.11.2017 12:02:06; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:02:06; WARNING; 0; Client started
+02.11.2017 12:02:06; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:42:30; WARNING; 0; Client started
+02.11.2017 12:42:30; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:42:30; WARNING; 0; Client started
+02.11.2017 12:42:30; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:49:59; WARNING; 0; Client started
+02.11.2017 12:49:59; WARNING; 0; HTTP/JSON client started
+02.11.2017 12:49:59; WARNING; 0; Client started
+02.11.2017 12:49:59; WARNING; 0; HTTP/JSON client started
+02.11.2017 13:13:15; WARNING; 0; Client started
+02.11.2017 13:13:15; WARNING; 0; HTTP/JSON client started
+02.11.2017 13:13:15; WARNING; 0; Client started
+02.11.2017 13:13:15; WARNING; 0; HTTP/JSON client started
+02.11.2017 13:13:56; INFO; 0; Standing >> [{"deviceId": "358735070736763", "latitude": "22.74957", "longitude": "75.89294", "timeStamp": "1509608636", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6089", "isValid": "True", "packetTimeStamp": "1509551174"}]
+02.11.2017 13:13:56; INFO; 0; Standing >> [{"deviceId": "351608080788750", "latitude": "22.71876", "longitude": "75.85568", "timeStamp": "1509608636", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6074", "isValid": "True", "packetTimeStamp": "1509608639"}]
+02.11.2017 13:13:56; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800068.9096/-19799515.3861/78.1555
+02.11.2017 13:13:56; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800065.3742/-19799515.3443/100.7915
+02.11.2017 13:14:02; INFO; 0; Standing >> [{"deviceId": "351608080788750", "latitude": "22.71876", "longitude": "75.85568", "timeStamp": "1509608642", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6074", "isValid": "True", "packetTimeStamp": "1509608639"}]
+02.11.2017 13:14:02; INFO; 0; Standing >> [{"deviceId": "358735070736763", "latitude": "22.74957", "longitude": "75.89294", "timeStamp": "1509608642", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6089", "isValid": "True", "packetTimeStamp": "1509551174"}]
+02.11.2017 13:14:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800062.5018/-19799475.3276/93.834
+02.11.2017 13:14:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800062.5018/-19799475.3276/98.5865
+02.11.2017 13:14:08; INFO; 0; Standing >> [{"deviceId": "351608080788750", "latitude": "22.71876", "longitude": "75.85568", "timeStamp": "1509608648", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6074", "isValid": "True", "packetTimeStamp": "1509608639"}]
+02.11.2017 13:14:08; INFO; 0; Standing >> [{"deviceId": "358735070736763", "latitude": "22.74957", "longitude": "75.89294", "timeStamp": "1509608648", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6089", "isValid": "True", "packetTimeStamp": "1509551174"}]
+02.11.2017 13:14:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800068.7381/-19799484.2673/84.4117
+02.11.2017 13:14:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800068.7381/-19799468.642/84.4134
+02.11.2017 13:14:14; INFO; 0; Standing >> [{"deviceId": "351608080788750", "latitude": "22.71876", "longitude": "75.85568", "timeStamp": "1509608654", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6074", "isValid": "True", "packetTimeStamp": "1509608639"}]
+02.11.2017 13:14:14; INFO; 0; Standing >> [{"deviceId": "358735070736763", "latitude": "22.74957", "longitude": "75.89294", "timeStamp": "1509608654", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6089", "isValid": "True", "packetTimeStamp": "1509551174"}]
+02.11.2017 13:14:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800062.4995/-19799514.3018/87.2561
+02.11.2017 13:14:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:19800062.4995/-19799498.6785/87.267

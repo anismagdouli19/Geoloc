@@ -1,0 +1,8 @@
+10.11.2017 19:20:25; INFO; 0; Message added: nisarg.desai@locanix.com->30 Is Sending Future Time Stamp Data
+10.11.2017 19:20:50; INFO; 0; Message added: nisarg.desai@locanix.com->31 Is Sending Future Time Stamp Data
+10.11.2017 19:20:54; INFO; 0; Sending message: nisarg.desai@locanix.com->30 Is Sending Future Time Stamp Data
+10.11.2017 19:20:54; ERROR; 0; System.InvalidOperationException: The SMTP host was not specified.
+   at System.Net.Mail.SmtpClient.CheckHostAndPort()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at EmailSender.SendMessage(SmtpClient client, Email mail) in e:\Concox\DataForwarder\EmailSender.cs:line 75
+10.11.2017 19:24:46; INFO; 0; Message added: nisarg.desai@locanix.com->22 Is Sending Future Time Stamp Data

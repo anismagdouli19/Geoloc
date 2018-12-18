@@ -1,0 +1,47 @@
+09.11.2017 17:13:27; WARNING; 0; Client started
+09.11.2017 17:13:27; WARNING; 0; GpsGate client started
+09.11.2017 17:13:27; WARNING; 0; GpsGate Data Should Received
+09.11.2017 17:13:29; INFO; 0; $FRCMD,358735070736763,_SendMessage,,2242.88570,N,7552.30225,E,0,0,197,091117,114329.946,1,Button1=0,Button2=1,*30
+09.11.2017 17:13:30; INFO; 0; 1 point sent of 1.Times for query/session/delete:652.8296/-147.6786/147.6786
+09.11.2017 17:13:30; INFO; 0; $FRCMD,358735070807192,_SendMessage,,2243.15659,N,7554.51370,E,0,8.09935205183585,284,091117,114325.000,1,Button1=1,Button2=0,*71
+09.11.2017 17:13:30; INFO; 0; 1 point sent of 1.Times for query/session/delete:318.861/-99.9433/99.9433
+09.11.2017 17:13:30; INFO; 0; $FRCMD,358735070885487,_SendMessage,,2245.53204,N,7552.21161,E,0,4.85961123110151,347,091117,114327.000,1,Button1=0,Button2=0,*5F
+09.11.2017 17:13:30; INFO; 0; 1 point sent of 1.Times for query/session/delete:320.4802/-115.635/115.635
+09.11.2017 17:13:31; INFO; 0; $FRCMD,351608080788750,_SendMessage,,2239.70757,N,7553.05023,E,0,24.8380129589633,159,091117,114322.000,1,Button1=1,Button2=0,*2E
+09.11.2017 17:13:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:322.3327/-103.0317/103.0317
+09.11.2017 17:16:01; WARNING; 0; Client started
+09.11.2017 17:16:01; WARNING; 0; HTTP/JSON client started
+09.11.2017 17:16:03; INFO; 0; Standing >> [{"deviceId": "358735070736763", "latitude": "22.71476", "longitude": "75.8717", "timeStamp": "1510227963", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6089", "isValid": "True", "packetTimeStamp": "1510227620""serverTimeStamp": "1510227963"}]
+09.11.2017 17:16:05; ERROR; 0; 358735070736763 Error sending points System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at HttpJson.DoSession(TrackerPacketList pt, Int32 reSend) in e:\Concox\DataForwarder\Protocols\HttpJson.cs:line 75
+   at Connection.Tick(Object obj) in e:\Concox\DataForwarder\Connection.cs:line 111
+09.11.2017 17:16:05; INFO; 0; Running >> [{"deviceId": "358735070807192", "latitude": "22.71937", "longitude": "75.90823", "timeStamp": "1510227960", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-1943", "isValid": "True", "packetTimeStamp": "1510227960""serverTimeStamp": "1510227965"}]
+09.11.2017 17:16:05; ERROR; 0; 358735070807192 Error sending points System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at HttpJson.DoSession(TrackerPacketList pt, Int32 reSend) in e:\Concox\DataForwarder\Protocols\HttpJson.cs:line 75
+   at Connection.Tick(Object obj) in e:\Concox\DataForwarder\Connection.cs:line 116
+09.11.2017 17:16:06; INFO; 0; Running >> [{"deviceId": "358735070885487", "latitude": "22.76388", "longitude": "75.87086", "timeStamp": "1510227962", "speed": "3.61111", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-1959", "isValid": "True", "packetTimeStamp": "1510227962""serverTimeStamp": "1510227966"}]
+09.11.2017 17:16:33; WARNING; 0; Client started
+09.11.2017 17:16:33; WARNING; 0; HTTP/JSON client started
+09.11.2017 17:16:35; INFO; 0; Standing >> [{"deviceId": "358735070736763", "latitude": "22.71476", "longitude": "75.8717", "timeStamp": "1510227995", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6089", "isValid": "True", "packetTimeStamp": "1510227620","serverTimeStamp": "1510227995"}]
+09.11.2017 17:16:35; INFO; 0; 1 point sent of 1.Times for query/session/delete:1090.1196/-134.21/134.21
+09.11.2017 17:16:36; INFO; 0; Standing >> [{"deviceId": "358735070807192", "latitude": "22.71939", "longitude": "75.90807", "timeStamp": "1510227996", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-1943", "isValid": "True", "packetTimeStamp": "1510227990","serverTimeStamp": "1510227996"}]
+09.11.2017 17:16:36; INFO; 0; 1 point sent of 1.Times for query/session/delete:619.2064/-99.8671/99.8671
+09.11.2017 17:16:36; INFO; 0; Running >> [{"deviceId": "358735070885487", "latitude": "22.76406", "longitude": "75.87085", "timeStamp": "1510227992", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-1959", "isValid": "True", "packetTimeStamp": "1510227992","serverTimeStamp": "1510227997"}]
+09.11.2017 17:16:37; INFO; 0; 1 point sent of 1.Times for query/session/delete:650.6672/-100.0157/100.0157
+09.11.2017 17:16:37; INFO; 0; Running >> [{"deviceId": "351608080788750", "latitude": "22.64628", "longitude": "75.88732", "timeStamp": "1510227997", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6074", "isValid": "True", "packetTimeStamp": "1510227997","serverTimeStamp": "1510227997"}]
+09.11.2017 17:16:37; INFO; 0; 1 point sent of 1.Times for query/session/delete:613.7333/-88.151/88.151
+09.11.2017 17:16:40; INFO; 0; Standing >> [{"deviceId": "358735070736763", "latitude": "22.71476", "longitude": "75.8717", "timeStamp": "1510228000", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6089", "isValid": "True", "packetTimeStamp": "1510227620","serverTimeStamp": "1510228000"}]
+09.11.2017 17:16:40; INFO; 0; 1 point sent of 1.Times for query/session/delete:622.8193/-103.2012/103.2012
+09.11.2017 17:16:41; INFO; 0; Standing >> [{"deviceId": "358735070807192", "latitude": "22.71939", "longitude": "75.90807", "timeStamp": "1510228001", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-1943", "isValid": "True", "packetTimeStamp": "1510228000","serverTimeStamp": "1510228001"}]
+09.11.2017 17:16:41; INFO; 0; 1 point sent of 1.Times for query/session/delete:623.5791/-84.6292/84.6292
+09.11.2017 17:16:42; INFO; 0; Running >> [{"deviceId": "358735070885487", "latitude": "22.76406", "longitude": "75.87085", "timeStamp": "1510227997", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-1959", "isValid": "True", "packetTimeStamp": "1510227997","serverTimeStamp": "1510228002"}]
+09.11.2017 17:16:42; INFO; 0; 1 point sent of 1.Times for query/session/delete:639.3034/-100.8256/100.8256
+09.11.2017 17:16:43; INFO; 0; Running >> [{"deviceId": "351608080788750", "latitude": "22.64588", "longitude": "75.8874", "timeStamp": "1510228002", "speed": "8.61111", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6074", "isValid": "True", "packetTimeStamp": "1510228002","serverTimeStamp": "1510228003"}]
+09.11.2017 17:16:43; INFO; 0; 1 point sent of 1.Times for query/session/delete:653.1313/-99.992/99.992
+09.11.2017 17:16:46; INFO; 0; Standing >> [{"deviceId": "358735070736763", "latitude": "22.71476", "longitude": "75.8717", "timeStamp": "1510228006", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-6089", "isValid": "True", "packetTimeStamp": "1510227620","serverTimeStamp": "1510228006"}]
+09.11.2017 17:16:46; INFO; 0; 1 point sent of 1.Times for query/session/delete:653.5212/-100.1383/100.1383
+09.11.2017 17:16:47; INFO; 0; Standing >> [{"deviceId": "358735070807192", "latitude": "22.71939", "longitude": "75.90807", "timeStamp": "1510228007", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-1943", "isValid": "True", "packetTimeStamp": "1510228005","serverTimeStamp": "1510228007"}]
+09.11.2017 17:16:47; INFO; 0; 1 point sent of 1.Times for query/session/delete:823.2584/-99.9022/99.9022
+09.11.2017 17:16:48; INFO; 0; Running >> [{"deviceId": "358735070885487", "latitude": "22.76406", "longitude": "75.87085", "timeStamp": "1510228002", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "MP09-FA-1959", "isValid": "True", "packetTimeStamp": "1510228002","serverTimeStamp": "1510228008"}]

@@ -1,0 +1,35 @@
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:02:53; WARNING; 0; Client started
+02.09.2017 17:02:53; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:08; WARNING; 0; Client started
+02.09.2017 17:35:08; WARNING; 0; HTTP/JSON client started
+02.09.2017 17:35:31; INFO; 0; >> [{"deviceId": "351608080802924", "latitude": "19.44351", "longitude": "72.82234", "timeStamp": "1504353938", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "MH48-K-377", "isValid": "True"}]
+02.09.2017 17:35:32; INFO; 0; >> [{"deviceId": "351608080785889", "latitude": "19.40957", "longitude": "72.85338", "timeStamp": "1504353939", "speed": "13.61111", "sos": "False", "altitude": "0", "vehicleNo": "MH48-K-273", "isValid": "True"}, {"deviceId": "351608080785889", "latitude": "19.40889", "longitude": "72.85234", "timeStamp": "1504353929", "speed": "12.77778", "sos": "False", "altitude": "0", "vehicleNo": "MH48-K-273", "isValid": "True"}]
+02.09.2017 17:35:33; INFO; 0; 1 point sent of 1.Times for query/session/delete:599.9868/586.1123/636.432

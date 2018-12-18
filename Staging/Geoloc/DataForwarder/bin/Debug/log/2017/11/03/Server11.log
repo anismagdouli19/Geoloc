@@ -1,0 +1,67 @@
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:20:37; WARNING; 0; Client started
+03.11.2017 12:20:37; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:29:03; WARNING; 0; Client started
+03.11.2017 12:29:03; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:49:32; WARNING; 0; Client started
+03.11.2017 12:49:32; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:18; WARNING; 0; Client started
+03.11.2017 12:51:18; WARNING; 0; HTTP/JSON client started
+03.11.2017 12:51:26; INFO; 0; Running >> [{"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693687"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693687"}]
+03.11.2017 12:51:29; INFO; 0; 10 point sent of 10.Times for query/session/delete:2810.9369/-1173.8804/1173.8804
+03.11.2017 12:51:32; INFO; 0; Running >> [{"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693692"}, {"deviceId": "358735070852842", "latitude": "30.76019", "longitude": "76.77518", "timeStamp": "1509693649", "speed": "0.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True", "packetTimeStamp": "1509693692"}]

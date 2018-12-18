@@ -1,0 +1,206 @@
+13.07.2017 18:12:31; WARNING; 0; Client started
+13.07.2017 18:12:31; WARNING; 0; HTTP/JSON client started
+13.07.2017 18:12:31; WARNING; 0; Client started
+13.07.2017 18:12:31; WARNING; 0; HTTP/JSON client started
+13.07.2017 18:12:31; WARNING; 0; Client started
+13.07.2017 18:12:31; WARNING; 0; HTTP/JSON client started
+13.07.2017 18:12:31; WARNING; 0; Client started
+13.07.2017 18:12:31; WARNING; 0; HTTP/JSON client started
+13.07.2017 18:12:31; WARNING; 0; Client started
+13.07.2017 18:12:31; WARNING; 0; HTTP/JSON client started
+13.07.2017 18:12:31; WARNING; 0; Client started
+13.07.2017 18:12:31; WARNING; 0; HTTP/JSON client started
+13.07.2017 18:12:31; WARNING; 0; Client started
+13.07.2017 18:12:31; WARNING; 0; HTTP/JSON client started
+13.07.2017 18:12:31; WARNING; 0; Client started
+13.07.2017 18:12:31; WARNING; 0; HTTP/JSON client started
+13.07.2017 18:12:46; INFO; 0; >> [{"deviceId": "358735070789481", "latitude": "30.74159", "longitude": "76.73027", "timeStamp": "1499949764", "speed": "7.5", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5059", "isValid": "True"}]
+13.07.2017 18:12:46; INFO; 0; >> [{"deviceId": "358735070787642", "latitude": "30.69767", "longitude": "76.76743", "timeStamp": "1499949762", "speed": "3.88889", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5002", "isValid": "True"}]
+13.07.2017 18:12:47; INFO; 0; 1 point sent of 1.Times for query/session/delete:181.729/389.2939/671.7041
+13.07.2017 18:12:47; INFO; 0; 1 point sent of 1.Times for query/session/delete:181.8462/373.3813/665.4442
+13.07.2017 18:13:00; INFO; 0; >> [{"deviceId": "358735070875207", "latitude": "30.76062", "longitude": "76.77479", "timeStamp": "1499949778", "speed": "0.27778", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5001", "isValid": "True"}]
+13.07.2017 18:13:00; INFO; 0; >> [{"deviceId": "358735070875181", "latitude": "30.70762", "longitude": "76.72446", "timeStamp": "1499949779", "speed": "10", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5042", "isValid": "True"}]
+13.07.2017 18:13:01; INFO; 0; >> [{"deviceId": "358735070847495", "latitude": "30.73939", "longitude": "76.73214", "timeStamp": "1499949774", "speed": "5.27778", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5043", "isValid": "True"}]
+13.07.2017 18:13:01; INFO; 0; >> [{"deviceId": "358735070865117", "latitude": "30.70931", "longitude": "76.73131", "timeStamp": "1499949777", "speed": "10.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5011", "isValid": "True"}]
+13.07.2017 18:13:01; INFO; 0; 1 point sent of 1.Times for query/session/delete:204.8796/390.0399/687.4002
+13.07.2017 18:13:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:195.569/478.4208/643.5597
+13.07.2017 18:13:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:178.241/369.1017/695.3661
+13.07.2017 18:13:02; INFO; 0; 1 point sent of 1.Times for query/session/delete:172.4831/395.5409/694.3083
+13.07.2017 18:13:08; INFO; 0; >> [{"deviceId": "358735070875041", "latitude": "30.68087", "longitude": "76.72913", "timeStamp": "1499949782", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5039", "isValid": "True"}]
+13.07.2017 18:13:09; INFO; 0; 1 point sent of 1.Times for query/session/delete:219.1829/428.8084/713.7017
+13.07.2017 18:13:12; INFO; 0; >> [{"deviceId": "358735070864797", "latitude": "30.69885", "longitude": "76.76737", "timeStamp": "1499949788", "speed": "7.5", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5029", "isValid": "True"}]
+13.07.2017 18:13:12; INFO; 0; >> [{"deviceId": "358735070864672", "latitude": "30.72616", "longitude": "76.75152", "timeStamp": "1499949787", "speed": "3.61111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5052", "isValid": "True"}]
+13.07.2017 18:13:12; INFO; 0; >> [{"deviceId": "358735070869317", "latitude": "30.71762", "longitude": "76.7439", "timeStamp": "1499949787", "speed": "5.83333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5026", "isValid": "True"}]
+13.07.2017 18:13:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:198.5399/378.1162/709.9982
+13.07.2017 18:13:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:198.8452/386.7036/690.9481
+13.07.2017 18:13:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:205.3017/383.3483/716.2302
+13.07.2017 18:13:16; INFO; 0; >> [{"deviceId": "358735070787642", "latitude": "30.69709", "longitude": "76.76798", "timeStamp": "1499949792", "speed": "8.61111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5002", "isValid": "True"}]
+13.07.2017 18:13:17; INFO; 0; 1 point sent of 1.Times for query/session/delete:207.9699/789.7595/719.1626
+13.07.2017 18:13:23; INFO; 0; >> [{"deviceId": "358735070875207", "latitude": "30.76047", "longitude": "76.77483", "timeStamp": "1499949797", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5001", "isValid": "True"}]
+13.07.2017 18:13:23; INFO; 0; >> [{"deviceId": "358735070875181", "latitude": "30.70608", "longitude": "76.72572", "timeStamp": "1499949799", "speed": "11.38889", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5042", "isValid": "True"}]
+13.07.2017 18:13:23; INFO; 0; >> [{"deviceId": "358735070847495", "latitude": "30.73825", "longitude": "76.73302", "timeStamp": "1499949794", "speed": "8.61111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5043", "isValid": "True"}]
+13.07.2017 18:13:24; INFO; 0; 1 point sent of 1.Times for query/session/delete:166.8014/373.0237/650.1175
+13.07.2017 18:13:24; INFO; 0; 1 point sent of 1.Times for query/session/delete:199.9275/386.7201/671.0286
+13.07.2017 18:13:24; INFO; 0; 1 point sent of 1.Times for query/session/delete:185.6212/372.5169/660.3554
+13.07.2017 18:13:32; INFO; 0; >> [{"deviceId": "358735070864797", "latitude": "30.69931", "longitude": "76.76803", "timeStamp": "1499949808", "speed": "8.05556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5029", "isValid": "True"}]
+13.07.2017 18:13:33; INFO; 0; 1 point sent of 1.Times for query/session/delete:204.0114/373.9988/720.6396
+13.07.2017 18:13:36; INFO; 0; >> [{"deviceId": "358735070789481", "latitude": "30.74429", "longitude": "76.72792", "timeStamp": "1499949814", "speed": "10", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5059", "isValid": "True"}]
+13.07.2017 18:13:36; INFO; 0; >> [{"deviceId": "358735070789523", "latitude": "30.70635", "longitude": "76.77977", "timeStamp": "1499949814", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5025", "isValid": "True"}]
+13.07.2017 18:13:37; INFO; 0; 1 point sent of 1.Times for query/session/delete:212.6667/368.6398/713.1375
+13.07.2017 18:13:37; INFO; 0; 1 point sent of 1.Times for query/session/delete:199.5663/404.1959/711.5446
+13.07.2017 18:13:41; INFO; 0; >> [{"deviceId": "358735070875207", "latitude": "30.75972", "longitude": "76.77531", "timeStamp": "1499949817", "speed": "5.55556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5001", "isValid": "True"}]
+13.07.2017 18:13:41; INFO; 0; >> [{"deviceId": "358735070875181", "latitude": "30.70399", "longitude": "76.72676", "timeStamp": "1499949819", "speed": "11.66667", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5042", "isValid": "True"}]
+13.07.2017 18:13:42; INFO; 0; 1 point sent of 1.Times for query/session/delete:193.567/365.9541/718.0627
+13.07.2017 18:13:42; INFO; 0; 1 point sent of 1.Times for query/session/delete:185.9319/489.9157/672.4199
+13.07.2017 18:13:49; INFO; 0; >> [{"deviceId": "358735070864706", "latitude": "30.73854", "longitude": "76.77551", "timeStamp": "1499949823", "speed": "9.16667", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5049", "isValid": "True"}]
+13.07.2017 18:13:49; INFO; 0; >> [{"deviceId": "358735070864698", "latitude": "30.74698", "longitude": "76.75684", "timeStamp": "1499949817", "speed": "10", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5017", "isValid": "True"}]
+13.07.2017 18:13:50; INFO; 0; 1 point sent of 1.Times for query/session/delete:186.0265/387.088/698.1899
+13.07.2017 18:13:50; INFO; 0; 1 point sent of 1.Times for query/session/delete:186.0344/373.3744/716.8993
+13.07.2017 18:13:53; INFO; 0; >> [{"deviceId": "358735070864672", "latitude": "30.72652", "longitude": "76.75257", "timeStamp": "1499949822", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5052", "isValid": "True"}]
+13.07.2017 18:13:54; INFO; 0; 1 point sent of 1.Times for query/session/delete:173.5495/370.6224/686.7015
+13.07.2017 18:13:56; INFO; 0; >> [{"deviceId": "358735070787642", "latitude": "30.69581", "longitude": "76.7698", "timeStamp": "1499949832", "speed": "8.61111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5002", "isValid": "True"}]
+13.07.2017 18:13:57; INFO; 0; 1 point sent of 1.Times for query/session/delete:197.6582/392.0119/698.0221
+13.07.2017 18:13:59; INFO; 0; >> [{"deviceId": "358735070875207", "latitude": "30.75897", "longitude": "76.77613", "timeStamp": "1499949837", "speed": "3.88889", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5001", "isValid": "True"}]
+13.07.2017 18:13:59; INFO; 0; >> [{"deviceId": "358735070865117", "latitude": "30.70851", "longitude": "76.73194", "timeStamp": "1499949837", "speed": "5.83333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5011", "isValid": "True"}]
+13.07.2017 18:13:59; INFO; 0; >> [{"deviceId": "358735070875181", "latitude": "30.70233", "longitude": "76.72813", "timeStamp": "1499949839", "speed": "7.5", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5042", "isValid": "True"}]
+13.07.2017 18:14:00; INFO; 0; 1 point sent of 1.Times for query/session/delete:196.6587/386.4427/691.9847
+13.07.2017 18:14:00; INFO; 0; 1 point sent of 1.Times for query/session/delete:200.554/366.7519/766.2123
+13.07.2017 18:14:00; INFO; 0; 1 point sent of 1.Times for query/session/delete:170.5952/522.2808/692.7449
+13.07.2017 18:14:07; INFO; 0; >> [{"deviceId": "358735070875041", "latitude": "30.68277", "longitude": "76.72747", "timeStamp": "1499949844", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5039", "isValid": "True"}, {"deviceId": "358735070875041", "latitude": "30.68281", "longitude": "76.72761", "timeStamp": "1499949839", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5039", "isValid": "True"}]
+13.07.2017 18:14:08; INFO; 0; >> [{"deviceId": "358735070864706", "latitude": "30.737", "longitude": "76.77685", "timeStamp": "1499949843", "speed": "11.11111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5049", "isValid": "True"}]
+13.07.2017 18:14:08; INFO; 0; >> [{"deviceId": "358735070852842", "latitude": "30.74", "longitude": "76.79124", "timeStamp": "1499949842", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True"}]
+13.07.2017 18:14:08; INFO; 0; 2 point sent of 2.Times for query/session/delete:241.7291/389.6288/857.8944
+13.07.2017 18:14:09; INFO; 0; 1 point sent of 1.Times for query/session/delete:196.8034/377.7546/646.2412
+13.07.2017 18:14:09; INFO; 0; 1 point sent of 1.Times for query/session/delete:315.2886/382.956/661.9757
+13.07.2017 18:14:13; INFO; 0; >> [{"deviceId": "358735070864797", "latitude": "30.70191", "longitude": "76.77213", "timeStamp": "1499949848", "speed": "8.05556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5029", "isValid": "True"}]
+13.07.2017 18:14:13; INFO; 0; >> [{"deviceId": "358735070864672", "latitude": "30.72736", "longitude": "76.75394", "timeStamp": "1499949842", "speed": "10", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5052", "isValid": "True"}]
+13.07.2017 18:14:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:186.8065/371.0237/692.4026
+13.07.2017 18:14:14; INFO; 0; 1 point sent of 1.Times for query/session/delete:200.3132/465.4349/706.5201
+13.07.2017 18:14:17; INFO; 0; >> [{"deviceId": "358735070789481", "latitude": "30.74546", "longitude": "76.72568", "timeStamp": "1499949852", "speed": "11.11111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5059", "isValid": "True"}]
+13.07.2017 18:14:17; INFO; 0; >> [{"deviceId": "358735070787642", "latitude": "30.69443", "longitude": "76.77125", "timeStamp": "1499949852", "speed": "10.83333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5002", "isValid": "True"}]
+13.07.2017 18:14:17; INFO; 0; >> [{"deviceId": "358735070789523", "latitude": "30.70446", "longitude": "76.7766", "timeStamp": "1499949854", "speed": "14.44444", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5025", "isValid": "True"}]
+13.07.2017 18:14:17; INFO; 0; >> [{"deviceId": "358735070786438", "latitude": "30.75071", "longitude": "76.72039", "timeStamp": "1499949853", "speed": "14.44444", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5004", "isValid": "True"}]
+13.07.2017 18:14:18; INFO; 0; 1 point sent of 1.Times for query/session/delete:244.554/381.4568/686.937
+13.07.2017 18:14:18; INFO; 0; 1 point sent of 1.Times for query/session/delete:223.1664/366.9417/708.9635
+13.07.2017 18:14:18; INFO; 0; 1 point sent of 1.Times for query/session/delete:208.1311/372.2964/675.734
+13.07.2017 18:14:19; INFO; 0; 1 point sent of 1.Times for query/session/delete:189.7813/898.9571/677.2908
+13.07.2017 18:14:21; INFO; 0; >> [{"deviceId": "358735070875207", "latitude": "30.75765", "longitude": "76.77693", "timeStamp": "1499949857", "speed": "11.11111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5001", "isValid": "True"}]
+13.07.2017 18:14:21; INFO; 0; >> [{"deviceId": "358735070875181", "latitude": "30.70214", "longitude": "76.72836", "timeStamp": "1499949859", "speed": "3.05556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5042", "isValid": "True"}]
+13.07.2017 18:14:21; INFO; 0; >> [{"deviceId": "358735070865117", "latitude": "30.70709", "longitude": "76.73308", "timeStamp": "1499949857", "speed": "10.83333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5011", "isValid": "True"}]
+13.07.2017 18:14:22; INFO; 0; 1 point sent of 1.Times for query/session/delete:227.6653/372.35/689.9144
+13.07.2017 18:14:22; INFO; 0; 1 point sent of 1.Times for query/session/delete:188.9384/397.7708/690.8114
+13.07.2017 18:14:22; INFO; 0; 1 point sent of 1.Times for query/session/delete:219.8314/380.1643/755.052
+13.07.2017 18:14:24; INFO; 0; >> [{"deviceId": "358735070864680", "latitude": "30.7393", "longitude": "76.77403", "timeStamp": "1499949862", "speed": "7.77778", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5013", "isValid": "True"}]
+13.07.2017 18:14:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:199.2921/437.1032/672.984
+13.07.2017 18:14:31; INFO; 0; >> [{"deviceId": "358735070864797", "latitude": "30.70263", "longitude": "76.77341", "timeStamp": "1499949867", "speed": "10.83333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5029", "isValid": "True"}, {"deviceId": "358735070864797", "latitude": "30.70232", "longitude": "76.77253", "timeStamp": "1499949857", "speed": "7.22222", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5029", "isValid": "True"}]
+13.07.2017 18:14:33; INFO; 0; 2 point sent of 2.Times for query/session/delete:338.8801/419.4341/815.9971
+13.07.2017 18:14:38; INFO; 0; >> [{"deviceId": "358735070786438", "latitude": "30.75109", "longitude": "76.71947", "timeStamp": "1499949863", "speed": "8.33333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5004", "isValid": "True"}]
+13.07.2017 18:14:38; INFO; 0; >> [{"deviceId": "358735070789523", "latitude": "30.70305", "longitude": "76.77415", "timeStamp": "1499949874", "speed": "13.33333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5025", "isValid": "True"}]
+13.07.2017 18:14:39; INFO; 0; 1 point sent of 1.Times for query/session/delete:162.4286/391.2733/690.2925
+13.07.2017 18:14:39; INFO; 0; 1 point sent of 1.Times for query/session/delete:163.7497/376.6849/694.8592
+13.07.2017 18:14:40; INFO; 0; >> [{"deviceId": "358735070875207", "latitude": "30.75686", "longitude": "76.77757", "timeStamp": "1499949867", "speed": "8.88889", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5001", "isValid": "True"}]
+13.07.2017 18:14:40; INFO; 0; >> [{"deviceId": "358735070847495", "latitude": "30.73572", "longitude": "76.73613", "timeStamp": "1499949872", "speed": "6.11111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5043", "isValid": "True"}]
+13.07.2017 18:14:40; INFO; 0; >> [{"deviceId": "358735070865117", "latitude": "30.70578", "longitude": "76.73422", "timeStamp": "1499949877", "speed": "6.38889", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5011", "isValid": "True"}, {"deviceId": "358735070865117", "latitude": "30.7064", "longitude": "76.73365", "timeStamp": "1499949867", "speed": "9.44444", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5011", "isValid": "True"}]
+13.07.2017 18:14:41; INFO; 0; 1 point sent of 1.Times for query/session/delete:225.6244/380.7464/706.1512
+13.07.2017 18:14:41; INFO; 0; 1 point sent of 1.Times for query/session/delete:200.3053/378.0198/677.6663
+13.07.2017 18:14:41; INFO; 0; 2 point sent of 2.Times for query/session/delete:254.513/393.0419/841.1788
+13.07.2017 18:14:43; INFO; 0; >> [{"deviceId": "358735070864706", "latitude": "30.7371", "longitude": "76.77839", "timeStamp": "1499949873", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5049", "isValid": "True"}]
+13.07.2017 18:14:43; INFO; 0; >> [{"deviceId": "358735070864680", "latitude": "30.74005", "longitude": "76.77387", "timeStamp": "1499949875", "speed": "6.94444", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5013", "isValid": "True"}]
+13.07.2017 18:14:43; INFO; 0; >> [{"deviceId": "358735070852842", "latitude": "30.74075", "longitude": "76.79057", "timeStamp": "1499949876", "speed": "5.83333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True"}]
+13.07.2017 18:14:44; INFO; 0; 1 point sent of 1.Times for query/session/delete:194.6241/395.4598/711.4977
+13.07.2017 18:14:44; INFO; 0; 1 point sent of 1.Times for query/session/delete:205.6305/374.4447/718.4915
+13.07.2017 18:14:44; INFO; 0; 1 point sent of 1.Times for query/session/delete:211.6695/431.5343/699.4815
+13.07.2017 18:14:46; INFO; 0; >> [{"deviceId": "358735070864797", "latitude": "30.70325", "longitude": "76.77451", "timeStamp": "1499949877", "speed": "13.61111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5029", "isValid": "True"}]
+13.07.2017 18:14:46; INFO; 0; >> [{"deviceId": "358735070864672", "latitude": "30.72943", "longitude": "76.75688", "timeStamp": "1499949882", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5052", "isValid": "True"}]
+13.07.2017 18:14:47; INFO; 0; 1 point sent of 1.Times for query/session/delete:208.3471/387.1051/686.3109
+13.07.2017 18:14:47; INFO; 0; 1 point sent of 1.Times for query/session/delete:215.3551/416.3094/704.9686
+13.07.2017 18:14:49; INFO; 0; >> [{"deviceId": "358735070789523", "latitude": "30.70242", "longitude": "76.77303", "timeStamp": "1499949884", "speed": "10", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5025", "isValid": "True"}]
+13.07.2017 18:14:49; INFO; 0; >> [{"deviceId": "358735070786438", "latitude": "30.75143", "longitude": "76.7187", "timeStamp": "1499949883", "speed": "6.11111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5004", "isValid": "True"}]
+13.07.2017 18:14:50; INFO; 0; 1 point sent of 1.Times for query/session/delete:199.2037/388.7851/677.9643
+13.07.2017 18:14:50; INFO; 0; 1 point sent of 1.Times for query/session/delete:171.9172/438.2461/684.9489
+13.07.2017 18:14:59; INFO; 0; >> [{"deviceId": "358735070875041", "latitude": "30.68054", "longitude": "76.72399", "timeStamp": "1499949894", "speed": "5.27778", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5039", "isValid": "True"}]
+13.07.2017 18:14:59; INFO; 0; >> [{"deviceId": "358735070864680", "latitude": "30.74021", "longitude": "76.77523", "timeStamp": "1499949898", "speed": "9.72222", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5013", "isValid": "True"}]
+13.07.2017 18:15:00; INFO; 0; 1 point sent of 1.Times for query/session/delete:203.8247/440.131/676.0187
+13.07.2017 18:15:00; INFO; 0; 1 point sent of 1.Times for query/session/delete:201.3462/373.2012/685.2329
+13.07.2017 18:15:03; INFO; 0; >> [{"deviceId": "358735070789481", "latitude": "30.74327", "longitude": "76.72192", "timeStamp": "1499949897", "speed": "6.38889", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5059", "isValid": "True"}, {"deviceId": "358735070789481", "latitude": "30.74314", "longitude": "76.72206", "timeStamp": "1499949894", "speed": "7.22222", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5059", "isValid": "True"}]
+13.07.2017 18:15:04; INFO; 0; 2 point sent of 2.Times for query/session/delete:206.3641/396.166/854.6015
+13.07.2017 18:15:11; INFO; 0; >> [{"deviceId": "358735070864680", "latitude": "30.74082", "longitude": "76.77615", "timeStamp": "1499949908", "speed": "11.66667", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5013", "isValid": "True"}]
+13.07.2017 18:15:12; INFO; 0; 1 point sent of 1.Times for query/session/delete:176.9581/386.4463/716.1295
+13.07.2017 18:15:17; INFO; 0; >> [{"deviceId": "358735070864797", "latitude": "30.70575", "longitude": "76.77834", "timeStamp": "1499949907", "speed": "13.61111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5029", "isValid": "True"}]
+13.07.2017 18:15:17; INFO; 0; >> [{"deviceId": "358735070864672", "latitude": "30.73005", "longitude": "76.75815", "timeStamp": "1499949914", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5052", "isValid": "True"}]
+13.07.2017 18:15:18; INFO; 0; 1 point sent of 1.Times for query/session/delete:260.1306/484.1976/688.7348
+13.07.2017 18:15:18; INFO; 0; 1 point sent of 1.Times for query/session/delete:214.4165/372.9592/705.2897
+13.07.2017 18:15:21; INFO; 0; >> [{"deviceId": "358735070786438", "latitude": "30.75229", "longitude": "76.7178", "timeStamp": "1499949913", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5004", "isValid": "True"}]
+13.07.2017 18:15:22; INFO; 0; 1 point sent of 1.Times for query/session/delete:212.7429/419.5156/730.9337
+13.07.2017 18:15:24; INFO; 0; >> [{"deviceId": "358735070875207", "latitude": "30.75474", "longitude": "76.77925", "timeStamp": "1499949917", "speed": "12.22222", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5001", "isValid": "True"}]
+13.07.2017 18:15:24; INFO; 0; >> [{"deviceId": "358735070847495", "latitude": "30.73496", "longitude": "76.73687", "timeStamp": "1499949922", "speed": "3.05556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5043", "isValid": "True"}]
+13.07.2017 18:15:24; INFO; 0; >> [{"deviceId": "358735070865117", "latitude": "30.7063", "longitude": "76.7361", "timeStamp": "1499949920", "speed": "8.88889", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5011", "isValid": "True"}, {"deviceId": "358735070865117", "latitude": "30.70592", "longitude": "76.73532", "timeStamp": "1499949910", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5011", "isValid": "True"}]
+13.07.2017 18:15:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:190.618/377.5543/657.1588
+13.07.2017 18:15:25; INFO; 0; 1 point sent of 1.Times for query/session/delete:188.6881/397.4503/690.8137
+13.07.2017 18:15:25; INFO; 0; 2 point sent of 2.Times for query/session/delete:225.2321/475.5887/797.0804
+13.07.2017 18:15:26; INFO; 0; >> [{"deviceId": "358735070874952", "latitude": "30.69939", "longitude": "76.76592", "timeStamp": "1499949922", "speed": "8.33333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5022", "isValid": "True"}]
+13.07.2017 18:15:26; INFO; 0; >> [{"deviceId": "358735070864680", "latitude": "30.74153", "longitude": "76.77724", "timeStamp": "1499949918", "speed": "13.05556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5013", "isValid": "True"}]
+13.07.2017 18:15:26; INFO; 0; >> [{"deviceId": "358735070852842", "latitude": "30.74157", "longitude": "76.78983", "timeStamp": "1499949916", "speed": "2.77778", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True"}]
+13.07.2017 18:15:27; INFO; 0; 1 point sent of 1.Times for query/session/delete:190.321/379.9974/650.5
+13.07.2017 18:15:27; INFO; 0; 1 point sent of 1.Times for query/session/delete:204.6481/429.4717/719.6026
+13.07.2017 18:15:28; INFO; 0; 1 point sent of 1.Times for query/session/delete:181.1158/514.0801/708.3841
+13.07.2017 18:15:28; INFO; 0; >> [{"deviceId": "358735070864672", "latitude": "30.73038", "longitude": "76.75887", "timeStamp": "1499949924", "speed": "9.72222", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5052", "isValid": "True"}]
+13.07.2017 18:15:29; INFO; 0; 1 point sent of 1.Times for query/session/delete:190.0171/369.0275/686.4672
+13.07.2017 18:15:34; INFO; 0; >> [{"deviceId": "358735070789481", "latitude": "30.74484", "longitude": "76.72456", "timeStamp": "1499949933", "speed": "13.61111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5059", "isValid": "True"}]
+13.07.2017 18:15:34; INFO; 0; >> [{"deviceId": "358735070786438", "latitude": "30.75219", "longitude": "76.71794", "timeStamp": "1499949932", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5004", "isValid": "True"}]
+13.07.2017 18:15:34; INFO; 0; >> [{"deviceId": "358735070789523", "latitude": "30.70147", "longitude": "76.77161", "timeStamp": "1499949929", "speed": "5.27778", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5025", "isValid": "True"}]
+13.07.2017 18:15:35; INFO; 0; 1 point sent of 1.Times for query/session/delete:215.7597/382.4974/714.5586
+13.07.2017 18:15:36; INFO; 0; 1 point sent of 1.Times for query/session/delete:191.4285/710.8898/665.6475
+13.07.2017 18:15:36; INFO; 0; 1 point sent of 1.Times for query/session/delete:191.457/722.3129/738.4295
+13.07.2017 18:15:41; INFO; 0; >> [{"deviceId": "358735070875207", "latitude": "30.75313", "longitude": "76.78071", "timeStamp": "1499949937", "speed": "8.61111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5001", "isValid": "True"}]
+13.07.2017 18:15:42; INFO; 0; 1 point sent of 1.Times for query/session/delete:301.5127/374.2653/675.2844
+13.07.2017 18:15:45; INFO; 0; >> [{"deviceId": "358735070875041", "latitude": "30.6792", "longitude": "76.72178", "timeStamp": "1499949944", "speed": "1.94444", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5039", "isValid": "True"}]
+13.07.2017 18:15:46; INFO; 0; 1 point sent of 1.Times for query/session/delete:187.5648/378.7945/714.6033
+13.07.2017 18:15:49; INFO; 0; >> [{"deviceId": "358735070789481", "latitude": "30.74556", "longitude": "76.72572", "timeStamp": "1499949943", "speed": "13.61111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5059", "isValid": "True"}]
+13.07.2017 18:15:51; INFO; 0; 1 point sent of 1.Times for query/session/delete:198.1638/957.0415/702.2832
+13.07.2017 18:15:54; INFO; 0; >> [{"deviceId": "358735070865117", "latitude": "30.70785", "longitude": "76.73927", "timeStamp": "1499949950", "speed": "12.5", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5011", "isValid": "True"}]
+13.07.2017 18:15:55; INFO; 0; 1 point sent of 1.Times for query/session/delete:182.6008/387.9892/708.8837
+13.07.2017 18:15:59; INFO; 0; >> [{"deviceId": "358735070875041", "latitude": "30.679", "longitude": "76.72147", "timeStamp": "1499949954", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5039", "isValid": "True"}]
+13.07.2017 18:15:59; INFO; 0; >> [{"deviceId": "358735070864706", "latitude": "30.73669", "longitude": "76.77773", "timeStamp": "1499949953", "speed": "3.05556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5049", "isValid": "True"}]
+13.07.2017 18:15:59; INFO; 0; >> [{"deviceId": "358735070874952", "latitude": "30.69988", "longitude": "76.7659", "timeStamp": "1499949952", "speed": "3.05556", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5022", "isValid": "True"}, {"deviceId": "358735070874952", "latitude": "30.6998", "longitude": "76.76582", "timeStamp": "1499949945", "speed": "0.27778", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5022", "isValid": "True"}]
+13.07.2017 18:15:59; INFO; 0; >> [{"deviceId": "358735070852842", "latitude": "30.74429", "longitude": "76.78761", "timeStamp": "1499949956", "speed": "10.83333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True"}]
+13.07.2017 18:16:00; INFO; 0; >> [{"deviceId": "358735070864680", "latitude": "30.74447", "longitude": "76.78201", "timeStamp": "1499949958", "speed": "14.16667", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5013", "isValid": "True"}]
+13.07.2017 18:16:00; INFO; 0; 1 point sent of 1.Times for query/session/delete:219.3782/376.4488/695.5966
+13.07.2017 18:16:00; INFO; 0; 1 point sent of 1.Times for query/session/delete:260.8427/378.9432/711.3417
+13.07.2017 18:16:00; INFO; 0; 2 point sent of 2.Times for query/session/delete:265.3425/388.0736/877.8371
+13.07.2017 18:16:00; INFO; 0; 1 point sent of 1.Times for query/session/delete:176.4005/457.1108/678.9594
+13.07.2017 18:16:01; INFO; 0; 1 point sent of 1.Times for query/session/delete:212.3128/396.6362/719.2414
+13.07.2017 18:16:04; INFO; 0; >> [{"deviceId": "358735070864672", "latitude": "30.73228", "longitude": "76.76181", "timeStamp": "1499949954", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5052", "isValid": "True"}]
+13.07.2017 18:16:04; INFO; 0; >> [{"deviceId": "358735070869317", "latitude": "30.71706", "longitude": "76.743", "timeStamp": "1499949957", "speed": "3.61111", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5026", "isValid": "True"}]
+13.07.2017 18:16:05; INFO; 0; 1 point sent of 1.Times for query/session/delete:164.9857/380.49/659.821
+13.07.2017 18:16:06; INFO; 0; 1 point sent of 1.Times for query/session/delete:178.0056/399.5964/702.8802
+13.07.2017 18:16:07; INFO; 0; >> [{"deviceId": "358735070789523", "latitude": "30.69957", "longitude": "76.76852", "timeStamp": "1499949959", "speed": "13.33333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5025", "isValid": "True"}]
+13.07.2017 18:16:08; INFO; 0; 1 point sent of 1.Times for query/session/delete:197.4092/365.8339/672.5258
+13.07.2017 18:16:10; INFO; 0; >> [{"deviceId": "358735070847495", "latitude": "30.7338", "longitude": "76.73774", "timeStamp": "1499949969", "speed": "6.66667", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5043", "isValid": "True"}, {"deviceId": "358735070847495", "latitude": "30.73394", "longitude": "76.73765", "timeStamp": "1499949966", "speed": "4.16667", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5043", "isValid": "True"}]
+13.07.2017 18:16:11; INFO; 0; 2 point sent of 2.Times for query/session/delete:202.5702/379.1545/843.8871
+13.07.2017 18:16:12; INFO; 0; >> [{"deviceId": "358735070864698", "latitude": "30.74175", "longitude": "76.7485", "timeStamp": "1499949964", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5017", "isValid": "True"}]
+13.07.2017 18:16:12; INFO; 0; >> [{"deviceId": "358735070864706", "latitude": "30.73663", "longitude": "76.77757", "timeStamp": "1499949963", "speed": "2.22222", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5049", "isValid": "True"}]
+13.07.2017 18:16:12; INFO; 0; >> [{"deviceId": "358735070864680", "latitude": "30.7452", "longitude": "76.78317", "timeStamp": "1499949968", "speed": "12.5", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5013", "isValid": "True"}]
+13.07.2017 18:16:12; INFO; 0; >> [{"deviceId": "358735070852842", "latitude": "30.74515", "longitude": "76.78685", "timeStamp": "1499949966", "speed": "12.22222", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5012", "isValid": "True"}]
+13.07.2017 18:16:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:164.3093/389.7777/650.9042
+13.07.2017 18:16:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:214.6191/391.9407/672.5699
+13.07.2017 18:16:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:199.3289/423.5071/662.2721
+13.07.2017 18:16:13; INFO; 0; 1 point sent of 1.Times for query/session/delete:216.3544/448.1456/671.6927
+13.07.2017 18:16:16; INFO; 0; >> [{"deviceId": "358735070869317", "latitude": "30.71698", "longitude": "76.74278", "timeStamp": "1499949967", "speed": "2.5", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5026", "isValid": "True"}]
+13.07.2017 18:16:17; INFO; 0; 1 point sent of 1.Times for query/session/delete:186.0355/863.1415/643.4905
+13.07.2017 18:16:22; INFO; 0; >> [{"deviceId": "358735070787642", "latitude": "30.69665", "longitude": "76.77766", "timeStamp": "1499949978", "speed": "5", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5002", "isValid": "True"}]
+13.07.2017 18:16:22; INFO; 0; >> [{"deviceId": "358735070789523", "latitude": "30.69887", "longitude": "76.76753", "timeStamp": "1499949969", "speed": "9.16667", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5025", "isValid": "True"}]
+13.07.2017 18:16:23; INFO; 0; 1 point sent of 1.Times for query/session/delete:201.3349/374.8447/703.7161
+13.07.2017 18:16:24; INFO; 0; 1 point sent of 1.Times for query/session/delete:175.5979/368.4779/670.4999
+13.07.2017 18:16:30; INFO; 0; >> [{"deviceId": "358735070864706", "latitude": "30.73632", "longitude": "76.77746", "timeStamp": "1499949983", "speed": "3.33333", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5049", "isValid": "True"}]
+13.07.2017 18:16:30; INFO; 0; >> [{"deviceId": "358735070875041", "latitude": "30.6795", "longitude": "76.7209", "timeStamp": "1499949984", "speed": "4.72222", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5039", "isValid": "True"}]
+13.07.2017 18:16:30; INFO; 0; >> [{"deviceId": "358735070864698", "latitude": "30.74139", "longitude": "76.74793", "timeStamp": "1499949983", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5017", "isValid": "True"}]
+13.07.2017 18:16:30; INFO; 0; >> [{"deviceId": "358735070864680", "latitude": "30.74654", "longitude": "76.7851", "timeStamp": "1499949987", "speed": "10.27778", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5013", "isValid": "True"}]
+13.07.2017 18:16:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:192.7525/403.039/672.7199
+13.07.2017 18:16:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:216.7514/392.0502/678.7228
+13.07.2017 18:16:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:212.4909/396.2512/694.2735
+13.07.2017 18:16:31; INFO; 0; 1 point sent of 1.Times for query/session/delete:226.1511/380.0451/679.7813
+13.07.2017 18:16:32; INFO; 0; >> [{"deviceId": "358735070869317", "latitude": "30.71663", "longitude": "76.74268", "timeStamp": "1499949985", "speed": "4.44444", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5026", "isValid": "True"}]
+13.07.2017 18:16:32; INFO; 0; >> [{"deviceId": "358735070789390", "latitude": "30.71512", "longitude": "76.74545", "timeStamp": "1499949983", "speed": "0", "sos": "False", "altitude": "0", "vehicleNo": "CH01-GA-5053", "isValid": "True"}]
+13.07.2017 18:16:33; INFO; 0; 1 point sent of 1.Times for query/session/delete:201.5217/365.6243/685.4842
+13.07.2017 18:16:33; INFO; 0; 1 point sent of 1.Times for query/session/delete:207.9695/415.722/698.4601

@@ -1,0 +1,14 @@
+bin\Debug\GPSSender.exe
+bin\Debug\GPSSender.pdb
+bin\Debug\objects.dll
+bin\Debug\objects.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GPSSender.exe
+obj\Debug\GPSSender.pdb
+bin\Release\GPSSender.exe
+bin\Release\GPSSender.pdb
+bin\Release\objects.dll
+bin\Release\objects.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\GPSSender.exe
+obj\Release\GPSSender.pdb

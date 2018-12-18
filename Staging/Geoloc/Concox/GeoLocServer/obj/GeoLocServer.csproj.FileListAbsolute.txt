@@ -1,0 +1,14 @@
+E:\GeoLoc\GeoLocServer\bin\Debug\GeoLoc.exe
+E:\GeoLoc\GeoLocServer\bin\Debug\GeoLoc.pdb
+E:\GeoLoc\GeoLocServer\bin\Debug\objects.dll
+E:\GeoLoc\GeoLocServer\bin\Debug\objects.pdb
+E:\GeoLoc\GeoLocServer\obj\Debug\ResolveAssemblyReference.cache
+E:\GeoLoc\GeoLocServer\obj\Debug\GeoLoc.exe
+E:\GeoLoc\GeoLocServer\obj\Debug\GeoLoc.pdb
+E:\GeoLoc\GeoLocServer\bin\Release\GeoLoc.exe
+E:\GeoLoc\GeoLocServer\bin\Release\GeoLoc.pdb
+E:\GeoLoc\GeoLocServer\bin\Release\objects.dll
+E:\GeoLoc\GeoLocServer\bin\Release\objects.pdb
+E:\GeoLoc\GeoLocServer\obj\Release\ResolveAssemblyReference.cache
+E:\GeoLoc\GeoLocServer\obj\Release\GeoLoc.exe
+E:\GeoLoc\GeoLocServer\obj\Release\GeoLoc.pdb

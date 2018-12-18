@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SQLHost>localhost</SQLHost>
+  <SQLDB>geoloc</SQLDB>
+  <SQLLogin>root</SQLLogin>
+  <SQLPassword>123456</SQLPassword>
+  <TK110>5555</TK110>
+  <Teltonika>5200</Teltonika>
+  <NavisetGT20>5300</NavisetGT20>
+  <V500>5700</V500>
+  <Trezub5>6500</Trezub5>
+  <Gosafe>6700</Gosafe>
+  <Signal>6800</Signal>
+  <NavisetGT20>6900</NavisetGT20>
+  <GPS968>6666</GPS968>
+  <Events>true</Events>
+</Configuration>
